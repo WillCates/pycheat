@@ -3,7 +3,7 @@
         "ldapsearch": {
             "description": "Anonymous ldapsearch",
             "commands": [
-                "bGRhcHNlYXJjaCAtaCBob3N0Lm5ldCAtcCAzODkgLXggLWIgImRjPWRvbWFpbixkYz1uZXQiICJDTj11c2VybmFtZWhlcmUiCg=="
+                "bGRhcHNlYXJjaCAtSCBsZGFwOi8vMTAuMTAuMTAuMTYxOjM4OSAteCAtYiAiZGM9aHRiLGRjPWxvY2FsIiAiQ049KiIgfHRlZSAtYSBmb3Jlc3QubGRhcHNlYXJjaA=="
             ]
         }
     },

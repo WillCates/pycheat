@@ -1,0 +1,12 @@
+{
+    "command": {
+        "impacket_psexec_hash": {
+            "description": "Login to system with PsExec (Impacket) using hash",
+            "commands": [
+                "aW1wYWNrZXQtcHNleGVjIGFkbWluaXN0cmF0b3JAMTAuMTAuMTAuWCAtaGFzaGVzIElOU0VSVF9IQVNIX0hFUkU="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

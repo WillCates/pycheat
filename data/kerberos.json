@@ -1,0 +1,18 @@
+{
+    "command": {
+        "kerberos_enum_preauth": {
+            "description": "Check for kerberos users, enumerate Kerberos-Preauth setting.",
+            "commands": [
+                "bXNmIG1vZHVsZTogYXV4aWxpYXJ5L2dhdGhlci9rZXJiZXJvc19lbnVtdXNlcnM="
+            ]
+        },
+        "kerberos_tgt_request_hash": {
+            "description": "Request a TGT using Impacket GetNPUsers.py to get a kerberos hash",
+            "commands": [
+                "aW1wYWNrZXQtR2V0TlBVc2VycyBodGIubG9jYWwvc3ZjLWFjY291bnQgLWRjLWlwIDEwLjEwLjEwLlggLW5vLXBhc3M="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

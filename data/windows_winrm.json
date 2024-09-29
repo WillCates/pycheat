@@ -1,0 +1,12 @@
+{
+    "command": {
+        "winrm_connect": {
+            "description": "Three Options for connecting to WSMAN over WinRM",
+            "commands": [
+                "ZXZpbC13aW5ybSAtaSAxMC4xMC4xMC5YIC11IFVTRVIgLXAgUEFTU1dPUkQKCkVudGVyLVBTU2Vzc2lvbiAtQ29tcHV0ZXJOYW1lIDEwLjEwLjEwLlggLUNyZWRlbnRpYWwgImh0Yi5sb2NhbFxcdXNlciIKCm1zZiBtb2R1bGU6IGV4cGxvaXQvd2luZG93cy93aW5ybS93aW5ybV9zY3JpcHRfZXhlYw=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

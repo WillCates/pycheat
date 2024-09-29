@@ -219,7 +219,9 @@
                 "set-domainobjectowner",
                 "add-domainobjectacl",
                 "set-domainuserpassword",
-                "add-domaingroupmember"
+                "add-domaingroupmember",
+                "add-objectacl",
+                "dcsync"
             ]
         },
         "printf": {
@@ -413,6 +415,35 @@
             "filename": "windows_privesc_xp.json",
             "keywords": [
                 "windows_privesc_xp"
+            ]
+        },
+        "kerberos": {
+            "filename": "kerberos.json",
+            "keywords": [
+                "kerberos",
+                "kerberos-preauth"
+            ]
+        },
+        "windows_winrm": {
+            "filename": "windows_winrm.json",
+            "keywords": [
+                "windows_winrm",
+                "wsman"
+            ]
+        },
+        "ad_general": {
+            "filename": "ad_general.json",
+            "keywords": [
+                "ad_general",
+                "active_directory",
+                "add_user",
+                "bloodhound"
+            ]
+        },
+        "psexec": {
+            "filename": "psexec.json",
+            "keywords": [
+                "psexec"
             ]
         }
     }

