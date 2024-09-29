@@ -1,0 +1,43 @@
+{
+    "command": {
+        "python_extract_uppercase": {
+            "description": "Extract only uppercase from a string",
+            "commands": [
+                "Pj4+IHMgPSAnYWJjZGVmZ0FCQ0RFRkdISUpLTE1OT1AnCj4+PiAnJy5qb2luKFtjIGZvciBjIGluIHMgaWYgYy5pc3VwcGVyKCldKQonQUJDREVGR0hJSktMTU5PUCcK"
+            ]
+        },
+        "python_extract_uppercase_regex": {
+            "description": "Extract only uppercase from a string using regex",
+            "commands": [
+                "Pj4+IHJlLnN1YignW15BLVpdJywgJycsIHMpCidBQkNERUZHSElKS0xNTk9QJwo="
+            ]
+        }
+        ,
+        "python_extract_uppercase_isupper": {
+            "description": "Extract only uppercase from a string using for loop and 'isupper'",
+            "commands": [
+                "Zm9yIHMgaW4gcXVvdGU6CiAgICBmb3IgeCBpbiBzOgogICAgICAgIGlmIHguaXN1cHBlcigpOgogICAgICAgICAgICBwcmludCh4KQo="
+            ]
+        },
+        "python_extract_uppercase_charset": {
+            "description": "Extract only uppercase from a string using a character set",
+            "commands": [
+                "Zm9yIGNoYXIgaW4gcXVvdGU6CiAgICBpZiBjaGFyIGluICJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWiI6CiAgICAgICAgcHJpbnQoY2hhciwgZW5kPScnKQ=="
+            ]
+        },
+        "python_iterator_range_step": {
+            "description": "Iterator loop with a step of 7",
+            "commands": [
+                "Zm9yIGkgaW4gcmFuZ2UoMCwgMTAwLCA3KToKICAgIHByaW50KGkpCg=="
+            ]
+        },
+        "python_print_indivisible_numbers": {
+            "description": "Print numbers that aren't divisible by 3 or 5",
+            "commands": [
+                "Zm9yIGkgaW4gcmFuZ2UoMCwgMjApOgogICAgaWYgKGkgJSAzID09IDApIG9yIChpICUgNSA9PSAwKToKICAgICAgICBjb250aW51ZQogICAgcHJpbnQoaSkK"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

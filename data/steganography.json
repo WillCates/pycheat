@@ -1,0 +1,12 @@
+{
+    "command": {
+        "extract_hidden_files_from_image": {
+            "description": "Extract hidden files from an image using steghide",
+            "commands": [
+                "c3RlZ2hpZGUgZXh0cmFjdCAtc2YgbWVybGluLmpwZw=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

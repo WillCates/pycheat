@@ -1,0 +1,36 @@
+{
+    "command": {
+        "fcrackzip_basic": {
+            "description": "Fcrackzip to crack zip password",
+            "commands": [
+                "ZmNyYWNremlwIC1EIC1wIC91c3Ivc2hhcmUvd29yZGxpc3RzL3JvY2t5b3UudHh0IC11IC9wYXRoL3RvL3NvbWUvZmlsZS56aXAucGFzc3dvcmRwcm90ZWN0ZWQ="
+            ]
+        },
+        "hashcat_length_mode_check": {
+            "description": "Check the proper mode for hash by length",
+            "commands": [
+                "JGhhc2hlcz0oLlxoYXNoY2F0NjQuZXhlIC0tZXhhbXBsZS1oYXNoZXMgfCB3aGVyZSB7JF8uc3BsaXQoJ0hBU0g6ICcpWy0xXS5sZW5ndGggLWxpa2UgOTZ9KQouXGhhc2hjYXQ2NC5leGUgLS1leGFtcGxlLWhhc2hlcyB8U2VsZWN0LVN0cmluZyAkaGFzaGVzIC1Db250ZXh0IDIsMQ=="
+            ]
+        },
+        "hashcat_sunos11_example": {
+            "description": "Cracking SunOS 11 shadow hash with hashcat",
+            "commands": [
+                "aGFzaGNhdCAtbSA3NDAwIEhBU0hfRklMRSAvdXNyL3NoYXJlL3dvcmRsaXN0cy9yb2NreW91LnR4dA=="
+            ]
+        },
+        "hashcat_go_fast": {
+            "description": "Quickly cracking hashes with hashcat",
+            "commands": [
+                "QzpcVXNlcnNcUkVEQUNURURcRG9jdW1lbnRzXGhhc2hjYXRcaGFzaGNhdC00LjIuMFxoYXNoY2F0LTQuMi4wPmhhc2hjYXQ2NC5leGUgLW0gNDAwIGhhc2hlc1xoYXNoLlJFREFDVEVEMi50eHQgcm9ja3lvdS50eHQgLU8gLXcgMw=="
+            ]
+        },
+        "keepass_extract_hash": {
+            "description": "Extract keepass hash",
+            "commands": [
+                "a2VlcGFzczJqb2huIHNvbWVrZWVzdG9yZS5rZGJ4"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

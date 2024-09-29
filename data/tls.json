@@ -1,0 +1,12 @@
+{
+    "command": {
+        "verify_certificate_website": {
+            "description": "Verify the certificate of a website with openssl",
+            "commands": [
+                "b3BlbnNzbCBzX2NsaWVudCAtc2hvd2NlcnRzIC12ZXJpZnkgNSAtY29ubmVjdCBzb21ld2Vic2l0ZV93aXRoX1RMUy5jb20="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

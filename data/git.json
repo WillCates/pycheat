@@ -1,0 +1,42 @@
+{
+    "command": {
+        "create_new_branch": {
+            "description": "Creates a new branch",
+            "commands": [
+                "Z2l0IGNoZWNrb3V0IC1iIO+8nG5ldy1icmFuY2jvvJ4gPGV4aXN0aW5nIGJyYW5jaD4K"
+            ]
+        },
+        "switch_branch": {
+            "description": "Switch Branches",
+            "commands": [
+                "Z2l0IGNoZWNrb3V0IDxicmFuY2huYW1lPgo="
+            ]
+        },
+        "add_and_commit": {
+            "description": "Add files to be committed and then commit changes to local git repo",
+            "commands": [
+                "Z2l0IGFkZCA8ZmlsZT4KZ2l0IGNvbW1pdCAtbSAiU3RhcnQgYSBmZWF0dXJlIg=="
+            ]
+        },
+        "merge_branch_to_master": {
+            "description": "Merge a branch you were working on to the master repo",
+            "commands": [
+                "Z2l0IGNoZWNrb3V0IG1haW4KZ2l0IG1lcmdlIG5ldy1mZWF0dXJlCmdpdCBicmFuY2ggLWQgbmV3LWZlYXR1cmU="
+            ]
+        },
+        "push_to_github": {
+            "description": "Push changes to remote repository (don't have to do this if you merge/open pull request)",
+            "commands": [
+                "Z2l0IHB1c2gKT1IKZ2l0IHB1c2ggb3JpZ2luIG1haW4="
+            ]
+        },
+        "initiate_and_push_local_repo": {
+            "description": "Create a new local repository, add files, push to a new GH remote repo",
+            "commands": [
+                "Z2l0IGluaXQgLWIgbWFpbgpnaXQgYWRkIC4KZ2l0IGNvbmZpZyAtLWdsb2JhbCB1c2VyLmVtYWlsICJYWFhYWFhYWFhYWEBnbWFpbC5jb20iCmdpdCBjb25maWcgLS1nbG9iYWwgdXNlci5uYW1lICJYWFhYWFhYWCIKZ2l0IGNvbW1pdCAtbSAiRmlyc3QgQ29tbWl0IgpnaCBhdXRoIGxvZ2luCmdoIHJlcG8gY3JlYXRl"
+            ]
+        }
+    },
+    "configurations": {
+    }
+}

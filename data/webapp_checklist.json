@@ -1,0 +1,12 @@
+{
+    "command": {
+        "webapp_attack_checklist": {
+            "description": "General approach for attacking webapps",
+            "commands": [
+                "IC0gVHJ5IHRvIGRldGVybWluZSB0aGUgZnJhbWV3b3JrcyBzdXBwb3J0ZWQgKEFTUCwgQVNQWCwgUEhQKQogLSBFbnVtZXJhdGUgYSBiYXNlIGxpc3Qgd2l0aCBkaXJiIG9yIGRpcmJ1c3RlciwgcGx1cyBhIGxpc3Qgd2l0aCB0aGUgc3VwcG9ydGVkIGZyYW1ld29yayBleHRlbnNpb24KIC0gUnVuIG5pa3RvIG9uIHRoZSB3ZWJhcHAKIC0gVHJ5IGRlZmF1bHQgY3JlZGVudGlhbHMgb24gYWxsIGF1dGhlbnRpY2F0aW9uIHBvcnRhbHMKIC0gQ2hlY2sgZm9yIGVycm9uZW91cyBjb21tZW50cyBpbiB0aGUgc291cmNlIG9mIHRoZSBwYWdlcwogLSBEZXRlcm1pbmUgdmVyc2lvbiBvciB5ZWFyIHRoYXQgdGhlIHdlYmFwcCB3YXMgY3JlYXRlZAogLSBMb29rIGZvciBwdWJsaWMgZXhwbG9pdHMgZm9yIHRoYXQgdmVyc2lvbi95ZWFyIGFuZCB3ZWJhcHAKIC0gUnVuIFNRTE1hcCBhZ2FpbnN0IGFueSBHRVQgcmVsYXRlZCBpbnB1dHMKIC0gU2F2ZSBhIEJ1cnAgUmVxdWVzdCBhbmQgcnVuIFNRTE1hcCBhZ2FpbnN0IGxvZ2luIFBPU1QgZm9ybSBhbmQgb3RoZXIgUE9TVCBmb3Jtcw=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

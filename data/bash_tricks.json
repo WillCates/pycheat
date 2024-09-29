@@ -1,0 +1,12 @@
+{
+    "command": {
+        "ifs_newlines": {
+            "description": "Negate newlines temporarily for loop iterations",
+            "commands": [
+                "U0FWRUlGUz0iJElGUyIKSUZTPSQnXG4nCiAgICAgICAgRE8gU1RVRkYKSUZTPSIkU0FWRUlGUyIK"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

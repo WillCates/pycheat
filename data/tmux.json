@@ -1,0 +1,22 @@
+{
+    "command": {
+        "interactive_commands": {
+            "description": "General Interactive Commands",
+            "commands": [
+                "Q1RSTCtCICUgIC0gU3BsaXRzIGEgdmVydGljYWwgcGFuZQpDVFJMK0IgIiAgLSBTcGxpdHMgYSBob3Jpem9udGFsIHBhbmUKQ1RSTCtCIDx1cC9kb3duL2xlZnQvcmlnaHQ+IC0gU3dpdGNoZXMgcGFuZXMKQ1RSTCtCIHogIC0gdG9nZ2xlcyBjdXJyZW50IHBhbmUgdG8gZnVsbHNjcmVlbgpDVFJMK0IgYyAgLSBjcmVhdGVzIGEgbmV3IHdpbmRvdwpDVFJMK0IgZCAgLSBkZXRhY2hlcyBmcm9tIGN1cnJlbnQgc2Vzc2lvbgpDVFJMK0IgWzAtOV0gLSBTd2l0Y2hlcyB0byB0bXV4IHdpbmRvdyBpbiBzZXNzaW9uCnRtdXggYXR0YWNoIC10IDAgIC0ga2lsbHMgc2Vzc2lvbiAwCkNvcHkgVGV4dDogSG9sZCBGbiArIFNlbGVjdCBUZXh0LCB0aGVuIFJlbGVhc2UgRm4sIENtZCArIEMgdG8gY29weQpQYXN0ZSBUZXh0OiBDbWQgKyBWCg=="
+            ]
+        },
+        "multi_pane": {
+            "description": "Send Command to Multiple Panes",
+            "commands": [
+                "Y3RybCArIGIgOgpzZXR3IHN5bmNocm9uaXplLXBhbmVzIG9uCgpjdHJsICsgYiA6CnNldHcgc3luY2hyb25pemUtcGFuZXMgb2ZmCg=="
+            ]
+        }
+    },
+    "configuration": {
+        "description": "General Starter Configuration",
+        "configurations": [
+            "I0NoYW5nZSBCaW5kaW5nIHRvIEN0cmwrYQp1bmJpbmQgQy1iCnNldC1vcHRpb24gLWcgcHJlZml4IEMtYQpiaW5kLWtleSBDLWEgc2VuZC1wcmVmaXgKI01vdXNlIGNsaWNrIG9uIHBhbmVzCnNldCAtZyBtb3VzZSBvbgojQ29sb3JpemVkIHBybW9wdApzZXQgLWcgZGVmYXVsdC10ZXJtaW5hbCAieHRlcm0tMjU2Y29sb3IiCg=="
+        ]
+    }
+}

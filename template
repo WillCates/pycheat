@@ -1,0 +1,22 @@
+{
+    "command": {
+        "NAME": {
+            "description": "DESCRIPTION",
+            "commands": [
+                "b64"
+            ]
+        },
+        "NAME": {
+            "description": "DESCRIPTION",
+            "commands": [
+                "b64"
+            ]
+        }
+    },
+    "configuration": {
+        "description": "DESCRIPTION",
+        "configurations": [
+            "b64"
+        ]
+    }
+}

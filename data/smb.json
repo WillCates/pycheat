@@ -1,0 +1,24 @@
+{
+    "command": {
+        "smb_enum": {
+            "description": "SMB Enumeration",
+            "commands": [
+                "c21ibWFwCnNtYmNsaWVudCAtTCAvLzEwLjEwLjEwLlgKZW51bTRsaW51eA=="
+            ]
+        },
+        "smb_connect": {
+            "description": "Connect to an SMB share",
+            "commands": [
+                "c21iY2xpZW50IC8vMTAuMTAuMTAuWC9bVm9sdW1lX1dpdGhfUGVybWlzc3Npb25zXQ=="
+            ]
+        },
+        "smb_list_file_dir": {
+            "description": "List all SMB files and directories",
+            "commands": [
+                "c21ibWFwIC1IIDEwLjEwLjEwLjEwMCAtUiBbc2F2ZSBkYXRhIHRvIGZpbGVd"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

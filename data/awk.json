@@ -1,0 +1,36 @@
+{
+    "command": {
+        "awk_match_delimiters": {
+            "description": "Matching pattern with AWK and delimiters",
+            "commands": [
+                "Y2F0IHNvbWUuY3N2IHxhd2sgLUZcLCAne2lmKCFtYXRjaCgkNiwvMTBcLjE3XC4xOThcLjMyLykpIHByaW50ICQ0LCAkNSwgJDYsICQ3LCAkOCwgJDksICQxMCB9CmNhdCBzb21lLmNzdiB8YXdrIC1GXCwgJ3tpZihtYXRjaCgkNiwvMTBcLjE3XC4xOThcLjMyLykpIHByaW50ICQ0LCAkNSwgJDYsICQ3LCAkOCwgJDksICQxMCB9"
+            ]
+        },
+        "awk_add_starting_line_num": {
+            "description": "Add a starting line number to each line of a CSV",
+            "commands": [
+                "YXdrICd7cHJpbnRmKCIlMDEwZCwlc1xuIiwgTlIsICQwKX0n"
+            ]
+        },
+        "exclude_quoted_delimiters": {
+            "description": "Exclude quoted delimiters from being used by AWK as delimiters",
+            "commands": [
+                "fGF3ayAtdkZQQVQ9JyhbXixdKil8KCJbXiJdKyIpJyAtdk9GUz0sICd7cHJpbnQgJDQsJDUgfSc="
+            ]
+        },
+        "awk_match_column_ip": {
+            "description": "Match specific column to IP regex in CSV",
+            "commands": [
+                "YXdrIC1GXCwgJyQ2fi8xMFwuWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzFdWzBdJC8nIExvZ3MtMTc1NTc2LTIwMTcwOTE0LTIwMTcwOTEzLTIwMTcwOTE0LTEwMDAwMDAtMTEyMDAwLjAwNS5jc3Y="
+            ]
+        },
+        "awk_in_loop": {
+            "description": "Awk matching examples in loop",
+            "commands": [
+                "Zm9yIElQX0FERFIgaW4gJChjYXQgUE9SVF84MF9TVU1NQVJZIHxncmVwICIxMC41LjFcfDEwLjYuMSIgfGF3ayAneyBwcmludCAkMiB9Jyk7IGRvIGNhdCBMb2dzLTE3NjcwNS0yMDE3MDkyOS0yMDE3MDkyOC0yMDE3MDkyOS0xMDAwMDAtMTAwMDAwLmNzdiB8Z3JlcCAkSVBfQUREUiB8YXdrIC1GXCwgJ3tpZighbWF0Y2goJDYsLzEwXC41XC5bMC05XXsxLDN9XC5bMC05XXsxLDN9LykpIHByaW50ICQ0LCAkNiB9JzsgZG9uZQ=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

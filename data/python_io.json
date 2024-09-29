@@ -1,0 +1,30 @@
+{
+    "command": {
+        "reading_files": {
+            "description": "Reading from files in python",
+            "commands": [
+                "c29tZWZpbGUgPSBvcGVuKCIvcGF0aC90by9maWxlIiwncicpCmZvciBsaW5lIGluIHNvbWVmaWxlOgogIHByaW50KGxpbmUsIGVuZD0nJykgI3RoZSAnZW5kJyBzdGF0ZW1lbnQgdGVsbHMgcHJpbnQgdG8gbm90IHByaW50IGFuIGFkZGl0aW9uYWwgbmV3bGluZSBjaGFyYWN0ZXIgaWYgdGhlcmUgaXMgb25lIGFscmVhZHkgaW4gdGhlIGZpbGUuCnNvbWVmaWxlLmNsb3NlKCkK"
+            ]
+        },
+        "read_file_auto_close": {
+            "description": "This method of reading the file automatically closes the file descriptor after done",
+            "commands": [
+                "d2l0aCBvcGVuKCIvcGF0aC90by9maWxlIiwncicpIGFzIHNvbWVmaWxlOgogIGZvciBsaW5lIGluIHNvbWVmaWxlOgogICAgaWYgIkpBQiIgaW4gbGluZS51cHBlcigpOgogICAgICBwcmludChsaW5lLCBlbmQ9JycpCg=="
+            ]
+        },
+        "read_file_assign_line_to_list": {
+            "description": "Reads a file and adds each line to a list",
+            "commands": [
+                "bGluZWxpc3QgPSBbXQp3aXRoIG9wZW4oIi9wYXRoL3RvL2ZpbGUiLCdyJykgYXMgc29tZWZpbGU6CiAgZm9yIGxpbmUgaW4gc29tZWZpbGU6CiAgICBsaW5lbGlzdC5hcHBlbmQobGluZS5zdHJpcCgnXG4nKSkg"
+            ]
+        },
+        "write_to_file": {
+            "description": "Writes items in a list to file",
+            "commands": [
+                "c29tZWxpc3QgPSBbIm9uZSIsICJ0d28iLCAidGhyZWUiLCAiZm91ciIsICJmaXZlIl0Kd2l0aCBvcGVuKCJDOlxcUGF0aFxcdG9cXFdpbmRvd3NcXEZpbGUudHh0IiwndycpIGFzIG51bWJlcnM6CiAgZm9yIG51bWJlciBpbiBzb21lbGlzdDoKICAgIHByaW50KG51bWJlciwgZmlsZT1udW1iZXJzKQ=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

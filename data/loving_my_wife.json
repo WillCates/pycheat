@@ -1,0 +1,12 @@
+{
+    "command": {
+        "my_love": {
+            "description": "Describes how much my wife means to me.",
+            "commands": [
+                "IyEvdXNyL2Jpbi9weXRob24KCmRlZiBsb3ZpbmdfbXlfd2lmZSgpOgogICAgYWN0aW9ucyA9IFsiZm9vdCBydWJzIiwKICAgICAgICAgICAgICAgICJraXNzZXMgPRgiLAogICAgICAgICAgICAgICAgImdvaW5nIG9uIGRhdGVzIiwKICAgICAgICAgICAgICAgICJuZXRmbGl4IGFuZCBjaGlsbCIsCiAgICAgICAgICAgICAgICAiZ29pbmcgdG8gRGlzbmV5IHRvZ2V0aGVyIiwKICAgICAgICAgICAgICAgICJ0cmF2ZWxpbmcgbmV3IHBsYWNlcyB0b2dldGhlciIsCiAgICAgICAgICAgICAgICAiaG9sZGluZyBoYW5kcyIsCiAgICAgICAgICAgICAgICAiZHJpdmluZyB3aXRoIHRoZSB3aW5kb3dzIGRvd24gdG9nZXRoZXIiLAogICAgICAgICAgICAgICAgImUgbW9ybmluZyBjb2ZmZWUgdG9nZXRoZXIgZSIsCiAgICAgICAgICAgICAgICAic2hvd2luZyBvdXIga2lkcyBhIGdvb2QgZXhhbXBsZSB0b2dldGhlciIsCiAgICAgICAgICAgICAgICAiY29taW5nIG91dCBvdXQgc3RydWdnbGVzIHN0cm9uZ2VyIHRvZ2V0aGVyIiwKICAgICAgICAgICAgICAgICJncm93aW5nIG9sZCB0b2dldGhlciIsCiAgICAgICAgICAgICAgICAidHJpY2stb3ItdHJlYXRpbmcgdG9nZXRoZXIiLAogICAgICAgICAgICAgICAgInRha2luZyBvbiB0aGUgd29ybGQgdG9nZXRoZXIiXQogICAgZm9yIGFjdGlvbiBpbiBhY3Rpb25zOgogICAgICAgIHByaW50KGFjdGlvbikKCndoaWxlIFRydWU6CiAgICBsb3ZpbmdfbXlfd2lmZSgp"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

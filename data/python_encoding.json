@@ -1,0 +1,54 @@
+{
+    "command": {
+        "bytes_to_strings": {
+            "description": "Convert bytes to strings",
+            "commands": [
+                "YidceDQxXHg0MicuZGVjb2RlKCk="
+            ]
+        },
+        "strings_to_bytes": {
+            "description": "Convert strings to bytes",
+            "commands": [
+                "J3RoaXMgaXMgbXkgc3RyaW5nJy5lbmNvZGUoKQ=="
+            ]
+        },
+        "count_bytes": {
+            "description": "Count the number of bytes",
+            "commands": [
+                "c29tZV9ieXRlcy5lbmNvZGUoKS5jb3VudChiJycp"
+            ]
+        },
+        "hex_string_to_hex_int": {
+            "description": "Convert a hex string to a hex integer",
+            "commands": [
+                "aW50KGhleF9zdHJpbmcuZW5jb2RlKCksMTYp"
+            ]
+        },
+        "conver_base64": {
+            "description": "Convert to base64",
+            "commands": [
+                "aW1wb3J0IGJhc2U2NApiYXNlNjQuYjY0ZGVjb2RlKHN0cmluZykK"
+            ]
+        },
+        "convert_rot13": {
+            "description": "ROT13 encode string",
+            "commands": [
+                "aW1wb3J0IGNvZGVjcwpjb2RlY3MuZW5jb2RlKGQuZGF0YSgyMCksICdyb3RfMTMnKQ=="
+            ]
+        },
+        "char_to_ord": {
+            "description": "Convert a character to an ordinal value",
+            "commands": [
+                "b3JkKCkK"
+            ]
+        },
+        "ord_to_char": {
+            "description": "Convert an ordinal value to a character",
+            "commands": [
+                "Y2hyKCk="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

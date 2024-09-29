@@ -1,0 +1,12 @@
+{
+    "command": {
+        "java_jad_decompile": {
+            "description": "Decompile a java .class file",
+            "commands": [
+                "amFkIGphdmEuY2xhc3M="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

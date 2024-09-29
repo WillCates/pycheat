@@ -1,0 +1,24 @@
+{
+    "command": {
+        "define_call_functions": {
+            "description": "Defining and calling functions in python",
+            "commands": [
+                "I2RlZmF1bHQgLyBvcHRpb25hbCB2YXJpYWJsZSAnYycKZGVmIGZ1bmMoYSwgYiwgYz0xMCk6CiAgICBkbyB0aGluZ3MKI0NhbGxpbmcgZnVuY3Rpb24KZnVuYyhhPTIsIGI9NCwgYz0xMSk="
+            ]
+        },
+        "forced_arg_type": {
+            "description": "Forcing arugment type with functions",
+            "commands": [
+                "ZGVmIGZ1bmMoYWxwaGE6aW50LGJyYXZvOmZsb2F0KQ=="
+            ]
+        },
+        "multiple_returns": {
+            "description": "Returning and assigning multiple return values from function",
+            "commands": [
+                "ZGVmIHNvbWVmdW5jKCk6CiAgcmV0dXJuIHgsIHkKYSxiID0gc29tZWZ1bmMoKQ=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

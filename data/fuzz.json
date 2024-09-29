@@ -1,0 +1,24 @@
+{
+    "command": {
+        "simple_python_fuzzer": {
+            "description": "Simple python program for fuzzing",
+            "commands": [
+                "IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCmltcG9ydCBzb2NrZXQKcyA9IHNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsIHNvY2tldC5TT0NLX1NUUkVBTSkKCmJ1ZmZlcj1bIkEiXQpjb3VudGVyPTIwMDAKCndoaWxlIGxlbihidWZmZXIpIDw9IDI1OgogICAgYnVmZmVyLmFwcGVuZCgiQSIqY291bnRlcikKICAgIGNvdW50ZXI9Y291bnRlcis1MAoKZm9yIHN0cmluZyBpbiBidWZmZXI6CiAgICBwcmludCAiQ29ubmVjdGluZyB0byBTT01FIFNlcnZlciIKICAgIHByaW50ICJGdXp6aW5nIFBBU1Mgd2l0aCAlcyBieXRlcy4uLiIgJSBsZW4oc3RyaW5nKQogICAgcHJpbnQgc3RyaW5nCg=="
+            ]
+        },
+        "hexchar_one_liner": {
+            "description": "One-liner for generating all hex chars to pass to fuzzer (for invalid character checking)",
+            "commands": [
+                "cm9vdEBQV0stS0FMSTp+L1BXSyMgZm9yIGkgaW4gezAuLjl9IHthLi5mfTsgZG8gZm9yIHggaW4gezAuLjl9IHthLi5mfTsgZG8gcHJpbnRmICJcXFxceCR4JGkiOyBkb25lOyBkb25lClx4MDBceDEwXHgyMFx4MzBceDQwXHg1MFx4NjBceDcwXHg4MFx4OTBceGEwXHhiMFx4YzBceGQwXHhlMFx4ZjBceDAxXHgxMVx4MjFceDMxXHg0MVx4NTFceDYxXHg3MVx4ODFceDkxXHhhMVx4YjFceGMxXHhkMVx4ZTFceGYxXHgwMlx4MTJceDIyXHgzMlx4NDJceDUyXHg2Mlx4NzJceDgyXHg5Mlx4YTJceGIyXHhjMlx4ZDJceGUyXHhmMlx4MDNceDEzXHgyM1x4MzNceDQzXHg1M1x4NjNceDczXHg4M1x4OTNceGEzXHhiM1x4YzNceGQzXHhlM1x4ZjNceDA0XHgxNFx4MjRceDM0XHg0NFx4NTRceDY0XHg3NFx4ODRceDk0XHhhNFx4YjRceGM0XHhkNFx4ZTRceGY0XHgwNVx4MTVceDI1XHgzNVx4NDVceDU1XHg2NVx4NzVceDg1XHg5NVx4YTVceGI1XHhjNVx4ZDVceGU1XHhmNVx4MDZceDE2XHgyNlx4MzZceDQ2XHg1Nlx4NjZceDc2XHg4Nlx4OTZceGE2XHhiNlx4YzZceGQ2XHhlNlx4ZjZceDA3XHgxN1x4MjdceDM3XHg0N1x4NTdceDY3XHg3N1x4ODdceDk3XHhhN1x4YjdceGM3XHhkN1x4ZTdceGY3XHgwOFx4MThceDI4XHgzOFx4NDhceDU4XHg2OFx4NzhceDg4XHg5OFx4YThceGI4XHhjOFx4ZDhceGU4XHhmOFx4MDlceDE5XHgyOVx4MzlceDQ5XHg1OVx4NjlceDc5XHg4OVx4OTlceGE5XHhiOVx4YzlceGQ5XHhlOVx4ZjlceDBhXHgxYVx4MmFceDNhXHg0YVx4NWFceDZhXHg3YVx4OGFceDlhXHhhYVx4YmFceGNhXHhkYVx4ZWFceGZhXHgwYlx4MWJceDJiXHgzYlx4NGJceDViXHg2Ylx4N2JceDhiXHg5Ylx4YWJceGJiXHhjYlx4ZGJceGViXHhmYlx4MGNceDFjXHgyY1x4M2NceDRjXHg1Y1x4NmNceDdjXHg4Y1x4OWNceGFjXHhiY1x4Y2NceGRjXHhlY1x4ZmNceDBkXHgxZFx4MmRceDNkXHg0ZFx4NWRceDZkXHg3ZFx4OGRceDlkXHhhZFx4YmRceGNkXHhkZFx4ZWRceGZkXHgwZVx4MWVceDJlXHgzZVx4NGVceDVlXHg2ZVx4N2VceDhlXHg5ZVx4YWVceGJlXHhjZVx4ZGVceGVlXHhmZVx4MGZceDFmXHgyZlx4M2ZceDRmXHg1Zlx4NmZceDdmXHg4Zlx4OWZceGFmXHhiZlx4Y2ZceGRmXHhlZlx4ZmYK"
+            ]
+        },
+        "metasploit_pattern_offset": {
+            "description": "Using Metasploit's Pattern Offset tool to check for determining offset of specific pattern\n or generating a new unique pattern",
+            "commands": [
+                "L3Vzci9zaGFyZS9tZXRhc3Bsb2l0LWZyYW1ld29yay90b29scy9leHBsb2l0L3BhdHRlcm5fb2Zmc2V0LnJiIC1sIDI3MDAgLXEgMzk2OTQ0MzgKWypdIEV4YWN0IG1hdGNoIGF0IG9mZnNldCAyNjA2CgovdXNyL3NoYXJlL21ldGFzcGxvaXQtZnJhbWV3b3JrL3Rvb2xzL2V4cGxvaXQvcGF0dGVybl9jcmVhdGUucmIgLWwgMjcwMAo="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

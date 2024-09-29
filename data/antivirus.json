@@ -1,0 +1,12 @@
+{
+    "command": {
+        "defender_exclude_path": {
+            "description": "Exclude a path from Defender's checks.",
+            "commands": [
+                "U2V0LU1wUHJlZmVyZW5jZSAtRXhjbHVzaW9uUGF0aCAnQzpcV2luZG93c1xUZW1wJwo="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

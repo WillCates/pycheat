@@ -1,0 +1,156 @@
+{
+    "command": {
+        "list_indexes": {
+            "description": "List all indices you have access to",
+            "commands": [
+                "fCBldmVudGNvdW50IHN1bW1hcml6ZT1mYWxzZSBpbmRleD0qIHwgZGVkdXAgaW5kZXggfCBmaWVsZHMgaW5kZXgsY291bnQgfHNlYXJjaCBjb3VudCE9MApPUgp8dHN0YXRzIGNvdW50IHdoZXJlIGluZGV4PSogYnkgaW5kZXg="
+            ]
+        },
+        "list_indexes_sourcetype": {
+            "description": "List all indexes and sourcetypes",
+            "commands": [
+                "fG1ldGFkYXRhIHR5cGU9c291cmNldHlwZXMgaW5kZXg9c29tZWluZGV4"
+            ]
+        },
+        "data_summaries": {
+            "description": "Listing of data summaries",
+            "commands": [
+                "aW5kZXg9YmxhaCBzb3VyY2V0eXBlPWJsYWhibGFoIGZpZWxkPXNvbWV0aGluZyBOT1Qgb3RoZXJmaWVsZD1zb21ldGhpbmdlbHNlIHx0b3AgbGltaXQ9MTAwIHNvbWVmaWVsZAppbmRleD1ibGFoIHNvdXJjZXR5cGU9YmxhaGJsYWggZmllbGQ9c29tZXRoaW5nIE5PVCBvdGhlcmZpZWxkPXNvbWV0aGluZ2Vsc2UgfHN0YXRzIGNvdW50KHNvbWVmaWVsZCkgYnkgc29tZW90aGVyZmllbGQsIHNvbWUzcmRmaWVsZA=="
+            ]
+        },
+        "full_output": {
+            "description": "See full event output from a search",
+            "commands": [
+                "aW5kZXg9YmxhaCBzb3VyY2V0eXBlPWJsYWhibGFoIGZpZWxkPXNvbWV0aGluZwppbmRleD1ibGFoIHNvdXJjZXR5cGU9YmxhaGJsYWggZmllbGQ9c29tZXRoaW5nIE5PVCBvdGhlcmZpZWxkPXNvbWV0aGluZ2Vsc2U="
+            ]
+        },
+        "cidr_notation": {
+            "description": "Search only in a specific subnet",
+            "commands": [
+                "aW5kZXg9YmxhaCBzb3VyY2V0eXBlPWJsYWhibGFoIGlwPTE5Mi4xNjguMC4wLzI0"
+            ]
+        },
+        "match_lookup": {
+            "description": "Match from a lookup",
+            "commands": [
+                "WyBpbnB1dGxvb2t1cCBzb21ldGhpbmcuY3N2IHxmaWVsZCBGSUVMRF9GUk9NX0xPT0tVUF9GSUxFIHxyZW5hbWUgRklFTERfRlJPTV9MT09LVVBfRklMRSBhcyBGSUVMRF9UT19NQVRDSCBd"
+            ]
+        },
+        "match_negate_lookup": {
+            "description": "Negate items from a lookup, match everything else",
+            "commands": [
+                "Tk9UIFsgaW5wdXRsb29rdXAgc29tZXRoaW5nLmNzdiB8ZmllbGQgRklFTERfRlJPTV9MT09LVVBfRklMRSB8cmVuYW1lIEZJRUxEX0ZST01fTE9PS1VQX0ZJTEUgYXMgRklFTERfVE9fTUFUQ0ggXQ=="
+            ]
+        },
+        "match_lookup_by_column": {
+            "description": "Match one field from lookup, then another field from a different column in lookup",
+            "commands": [
+                "WyBpbnB1dGxvb2t1cCBzb21ldGhpbmcuY3N2IHxmaWVsZCBGSUVMRDFfRlJPTV9MT09LVVBfRklMRSB8cmVuYW1lIEZJRUxEMV9GUk9NX0xPT0tVUF9GSUxFIGFzIEZJRUxEMV9UT19NQVRDSCBdIHxzZWFyY2ggWyBpbnB1dGxvb2t1cCBzb21ldGhpbmcuY3N2IHxmaWVsZCBGSUVMRDJfRlJPTV9MT09LVVBfRklMRSB8cmVuYW1lIEZJRUxEMl9GUk9NX0xPT0tVUF9GSUxFIGFzIEZJRUxEMl9UT19NQVRDSCBd"
+            ]
+        },
+        "subsearch_lookup": {
+            "description": "Subsearch lookup",
+            "commands": [
+                "aW5kZXg9QkxBSCBLRVlXT1JEIE5PVCBbfHNlYXJjaCBpbmRleD1CTEFIIHNvdXJjZXR5cGU9QkxBSCBlYXJsaWVzdD0tMmQgfHRvcCBob3N0IGJ5IHdoYXRldmVyIHxmaWVsZHMgaG9zdF0gfHRvcCBzb21ldGhpbmc="
+            ]
+        },
+        "eval_new_name_based_on_event_type": {
+            "description": "Eval a new name of a field based on an event type",
+            "commands": [
+                "fGV2YWwgTkVXX0ZJRUxEPWNhc2UoRVhJU1RJTkdfRklFTEQsICJDb250ZW50IHRvIGRpc3BsYXkiKSB8dG9wIE5FV19GSUVMRA=="
+            ]
+        },
+        "eval_field_name_based_on_value": {
+            "description": "Eval a field name based on the value of another field",
+            "commands": [
+                "fGV2YWwgTVNfQWN0aW9uPWNhc2UoRXZlbnRDb2RlPTQ2MjQsICJVc2VyIExvZ2luIikgfHRvcCBNU19BY3Rpb24gYnkgRXZlbnRDb2Rl"
+            ]
+        },
+        "eval_multivalue_field": {
+            "description": "Evaluate a multivalue field into a new field",
+            "commands": [
+                "fGV2YWwgVXNlcl9BY2NvdW50PW12aW5kZXgoQWNjb3VudF9OYW1lLDEpIHxzZWFyY2ggVXNlcl9BY2NvdW50PSJzdXBlcm1hbiI="
+            ]
+        },
+        "slicing_new_field_regex": {
+            "description": "Slicing out and creating a new field based on partial match from another value",
+            "commands": [
+                "aW5kZXg9V0lORE9XU19JTkRFWCBFdmVudElEPTQ2MjQgfHJleCBmaWVsZD1fcmF3ICIuKlxcXFwoPzxVU0VSSUQ+W2EtekEtWjAtOVxfXC1cJF0rKSIgfHRvcCBVU0VSSUQgbGltaXQ9MTAwCnxyZXggZmllbGQ9X3JhdyAiXig/PElQQUREUj5bMC05XXsxLDN9XC5bMC05XXsxLDN9XC5bMC05XXsxLDN9XC5bMC05XXsxLDN9KSI="
+            ]
+        },
+        "iplocation_filtering_for_country": {
+            "description": "Filter search based on iplocation data for specific country",
+            "commands": [
+                "aW5kZXg9d2luZG93c2luZGV4IEV2ZW50Q29kZT01MTU2IERpcmVjdGlvbj1PdXRib3VuZCB8aXBsb2NhdGlvbiBEZXN0aW5hdGlvbl9BZGRyZXNzIHxzZWFyY2ggTk9UIENvdW50cnk9IlVuaXRlZCBTdGF0ZXMi"
+            ]
+        },
+        "cidr_notation_examples": {
+            "description": "CIDR Notation examples",
+            "commands": [
+                "aW5kZXg9ZmlyZXdhbGxzIGRlc3RpbmF0aW9uX2lwIT0xOTIuMTY4LjAuMC8xNgppbmRleD1maXJld2FsbHMgTk9UIFtpbnB1dGxvb2t1cCBpbnRlcm5hbF9jaWRyLmNzdiB8ZmllbGRzIGNpZHIgfHJlbmFtZSBjaWRyIGFzIGRlc3RpbmF0aW9uX2lwXQ=="
+            ]
+        },
+        "license_volume": {
+            "description": "Getting your license volume (_internal index access needed",
+            "commands": [
+                "IGluZGV4PV9pbnRlcm5hbCAgc291cmNlPSpsaWNlbnNlX3VzYWdlLmxvZyogdHlwZT0iVXNhZ2UiIGVhcmxpZXN0PS0zMGRAZCBsYXRlc3Q9QGQKICB8IGZpZWxkcyBfdGltZSwgcG9vbCwgaWR4LCBiLCBoCiB8c2VhcmNoIGg9ImcqIgogIHwgZXZhbCBpZHg9aWYobGVuKGlkeCk9MCBPUiBpc251bGwoaWR4KSwiKFVOS05PV04pIixpZHgpCiB8ZXZhbCBoPWlmKGxlbihoKT0wIE9SIGlzbnVsbChoKSwiKFVOS05PV04pIixoKQogIHwgYmluIF90aW1lIHNwYW49MWQKICB8IHN0YXRzIHN1bShiKSBhcyBiIGJ5IF90aW1lLCBwb29sLCBoCiAgfCBzdGF0cyBzdW0oYikgQVMgdm9sdW1lIGJ5IGgsIF90aW1lCiAgfCBzdGF0cyBhdmcodm9sdW1lKSBBUyBhdmdWb2x1bWUgbWF4KHZvbHVtZSkgQVMgbWF4Vm9sdW1lIGJ5IGgKICB8IGV2YWwgYXZnVm9sdW1lR0I9cm91bmQoYXZnVm9sdW1lLzEwMjQvMTAyNC8xMDI0LDMpCiAgfCBldmFsIG1heFZvbHVtZUdCPXJvdW5kKG1heFZvbHVtZS8xMDI0LzEwMjQvMTAyNCwzKQogIHwgZmllbGRzIGgsIGF2Z1ZvbHVtZUdCLCBtYXhWb2x1bWVHQgogIHwgcmVuYW1lIGF2Z1ZvbHVtZUdCIEFTICJhdmVyYWdlIiBtYXhWb2x1bWVHQiBBUyAicGVhayIgaCBBUyAiaG9zdCI="
+            ]
+        },
+        "highest_traffic_hosts": {
+            "description": "Find the hosts generating the highest amount of traffic",
+            "commands": [
+                "aW5kZXg9Y2lzY29faXBzCnwgZmllbGRzIHNyY19ieXRlcyBzcmNfaXAgX3RpbWUKfCBzdGF0cyBzdW0oc3JjX2J5dGVzKSBhcyB0b3RhbF9ieXRlcyBieSBzcmNfaXAKfCBzb3J0IC0gdG90YWxfYnl0ZXMKfCBldmFsIHRvdGFsX21iPXJvdW5kKHRvdGFsX2J5dGVzLzEwNDg1NzYsIDIpCnwgZmllbGRzIC0gdG90YWxfYnl0ZXM="
+            ]
+        },
+        "count_dns_requests": {
+            "description": "Get a count of DNS requests",
+            "commands": [
+                "aW5kZXg9Y2lzY29faXBzIGRlc3RfcG9ydD01Mwp8IGZpZWxkcyBzcmNfaXAgfHN0YXRzIGNvdW50IGJ5IHNyY19pcCB8c29ydCAtIGNvdW50"
+            ]
+        },
+        "interface_usage_over_time": {
+            "description": "Check the traffic interface usage by volume over time",
+            "commands": [
+                "aW5kZXg9Y2lzY29faXBzCnwgZmllbGRzIHNyY19ieXRlcyBpZmFjZV9lZ3Jlc3MgaWZhY2VfaW5ncmVzcyBfdGltZQp8IHN0YXRzIHN1bShzcmNfYnl0ZXMpIGFzIHRvdGFsX2J5dGVzIGJ5IGlmYWNlX2luZ3Jlc3MsIGlmYWNlX2VncmVzcwp8IHNvcnQgLSB0b3RhbF9ieXRlcwp8IGV2YWwgdG90YWxfbWI9cm91bmQodG90YWxfYnl0ZXMvMTA0ODU3NiwgMikKfCBmaWVsZHMgLSB0b3RhbF9ieXRlcwo="
+            ]
+        },
+        "malicious_inbox_rules": {
+            "description": "Check for creation of malicious inbox rules",
+            "commands": [
+                "aW5kZXg9bzM2NSogT3BlcmF0aW9uPU5ldy1JbmJveFJ1bGUgKCJQYXJhbWV0ZXJze30uTmFtZSI9KlN1YmplY3QqIEFORCAiUGFyYW1ldGVyc3t9LlZhbHVlIj0qRGVsZXRlKik="
+            ]
+        },
+        "blocked_outbound_ssh": {
+            "description": "Check for blocked SSH traffic outbound to internet",
+            "commands": [
+                "aW5kZXg9ZmlyZXdhbGwtKiBkZXN0X3BvcnQ9MjIgYWN0aW9uPWJsb2NrZWQgTk9UKGRlc3RfaXA9MTAuMC4wLjAvOCBPUiBkZXN0X2lwPTE3Mi4xNi4wLjAvMTIgT1IgZGVzdF9pcD0xOTIuMTY4LjAuMC8xNikgKHNyY19pcD0xMC4wLjAuMC84IE9SIHNyY19pcD0xNzIuMTYuMC4wLzEyIE9SIHNyY19pcD0xOTIuMTY4LjAuMC8xNil8dG9wIGluZGV4IGJ5IGRlc3RfaXAsIGRlc3RfcG9ydCwgc3JjX2lwLCBhY3Rpb24="
+            ]
+        },
+        "non_22_ssh": {
+            "description": "Checking for port/protocol mismatch - SSH over ports other than 22/tcp",
+            "commands": [
+                "aW5kZXg9ZmlyZXdhbGwtKiBkZXN0X3BvcnQhPTIyIHNlcnZpY2U9U1NI"
+            ]
+        },
+        "dns_tunneling_txt": {
+            "description": "Searching for DNS tunneling using TXT records for C2",
+            "commands": [
+                "aW5kZXg9ZmlyZXdhbGwgc291cmNldHlwZT1mZ3RfbG9nIHF0eXBlPVRYVCBzdWJ0eXBlPSJkbnMtcmVzcG9uc2UiIE5PVChxbmFtZT0qLnNrIE9SIHFuYW1lPV8qIE9SIHFuYW1lPSouZHNjc2MubmV0IE9SIHFuYW1lPSouZHNudS5uZXQgT1IgcW5hbWU9Ki5kc2FkbnMubmV0IE9SIHFuYW1lPSouc29waG9zeGwubmV0IE9SIHFuYW1lPSoucGYtZC5jYSBPUiBxbmFtZT0qLmxvb2tvdXQuY29tIE9SIHFuYW1lPSouYW1hem9uc2VzLmNvbSBPUiBxbmFtZT0qLm1jYWZlZS5jb20gT1IgcW5hbWU9Ki5vdXRsb29rLmNvbSBPUiBxbmFtZT0qLmFtYXpvbi5jb20gT1IgcW5hbWU9Ki5vbm1pY3Jvc29mdC5jb20gT1IgcW5hbWU9Ki5sb2dtZWluLWdhdGV3YXkuY29tKSB8d2hlcmUgbGVuKHFuYW1lKT4zMCB8dG9wIHFuYW1lIGJ5IHNyY2lw"
+            ]
+        },
+        "time_bucketing": {
+            "description": "Use at end of command to bucket time by events",
+            "commands": [
+                "fCBidWNrZXQgX3RpbWUgc3Bhbj0xaAp8IHN0YXRzIGNvdW50KGRlc3RfcG9ydCkgYXMgbnVtX2V2ZW50cyBieSBzcmMgX3RpbWUKfCBzdHJlYW1zdGF0cyB3aW5kb3c9NSBtZWFuKG51bV9ldmVudHMpIGFzIG1vdmluZ19hdmcgYnkgc3JjCnwgZXZhbCBzcGlrZT1pZihudW1fZXZlbnRzID4gKDIgKiBtb3ZpbmdfYXZnKSwxLDAp"
+            ]
+        },
+        "transactions": {
+            "description": "Usage for Splunk transactions",
+            "commands": [
+                "fHRyYW5zYWN0aW9uIGZpZWxkc29tZXRoaW5nIHN0YXJ0c3dpdGg9YmxhaD1zb21ldGhpbmcgZW5kc3dpdGg9YmxhaDI9c29tZXRoaW5nMiBtYXhzcGFuPTZtIG1heHBhdXNlPTNt"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

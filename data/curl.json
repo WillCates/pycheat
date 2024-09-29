@@ -1,0 +1,18 @@
+{
+    "command": {
+        "curl_json_post": {
+            "description": "Posting JSON to API endpoint via curl (will return JSON)",
+            "commands": [
+                "Y3VybCAtWFBPU1QgLVMgLS1kYXRhLWJpbmFyeSAneyJuYW1lIjoiIn0nIGh0dHA6Ly8xMC4xMC4xMC4xNzkvYXBpL2dldENvbGxlYWd1ZXMgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgMj4vZGV2L251bGwKW3siaWQiOjEsIm5hbWUiOiJTYXJpbmEgQmF1ZXIiLCJwb3NpdGlvbiI6Ikp1bmlvciBEZXZlbG9wZXIiLCJlbWFpbCIuLi4uLi4u"
+            ]
+        },
+        "curl_json_post_parsed_output": {
+            "description": "Post JSON to API via curl, parse output JSON with JQ",
+            "commands": [
+                "cm9vdEBOQ0MxNzAxOn4vSFRCL01BQ0hJTkVTIyBjdXJsIC1YUE9TVCAtUyAtLWRhdGEtYmluYXJ5ICd7Im5hbWUiOiIifScgaHR0cDovLzEwLjEwLjEwLjE3OS9hcGkvZ2V0Q29sbGVhZ3VlcyAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAyPi9kZXYvbnVsbCB8anEgJy4nW10ubmFtZSB8dHIgLWQgJyInClNhcmluYSBCYXVlcgpPY3RhdmlhIEtlbnQKQ2hyaXN0aWFuIEthbmUKS2ltYmVybHkgUGFnZQpTaGF5bmEgU3RhZmZvcmQKSmFtZXMgSG91c3RvbgpDb25ub3IgWW9yawpSZXlhIE1hcnRpbgouLi4uLgo="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

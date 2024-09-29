@@ -1,0 +1,30 @@
+{
+    "command": {
+        "user_input": {
+            "description": "Accept user input and assign to a variable",
+            "commands": [
+                "eCA9IGlucHV0KCJFbnRlciBuYW1lIik="
+            ]
+        },
+        "namespace_override": {
+            "description": "Override variable namespace. LEGB (Local, Enclosing, Global, Builtin)",
+            "commands": [
+                "bm9ubG9jYWwgYSA9IDEwCmdsb2JhbCBiID0gMTEKX19idWlsdGluc19fLlZBUk5BTUUgPSBzb21ldGhpbmcK"
+            ]
+        },
+        "show_namespace_variables": {
+            "description": "Show variables in respective namespaces",
+            "commands": [
+                "Z2xvYmFscygpCmxvY2Fscygp"
+            ]
+        },
+        "library_objects": {
+            "description": "Check the objects of an imported library",
+            "commands": [
+                "ZGlyKExJQlJBUlkp"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "command": {
+        "iis_version_by_os": {
+            "description": "List of IIS versions by OS",
+            "commands": [
+                "MS4wIC0gSW5jbHVkZWQgd2l0aCBXaW5kb3dzIE5UIDMuNTEgU1AgMwoyLjAgLSBJbmNsdWRlZCB3aXRoIFdpbmRvd3MgTlQgU2VydmVyIDQuMC4KMy4wIC0gSW5jbHVkZWQgd2l0aCBXaW5kb3dzIE5UIFNlcnZlciA0LjAgU2VydmljZSBQYWNrIDMKNC4wIC0gU2VsZi1jb250YWluZWQgZG93bmxvYWQKNS4wIC0gQnVpbHQtaW4gY29tcG9uZW50IG9mIFdpbmRvd3MgMjAwMC4KNS4xIC0gQnVpbHQtaW4gY29tcG9uZW50IG9mIFdpbmRvd3MgWFAgUHJvZmVzc2lvbmFsLgo2LjAgLSBCdWlsdC1pbiBjb21wb25lbnQgb2YgV2luZG93cyBTZXJ2ZXIgMjAwMy4KNy4wIC0gQnVpbHQtaW4gY29tcG9uZW50IG9mIFdpbmRvd3MgVmlzdGEgYW5kIFdpbmRvd3MgU2VydmVyIDIwMDguCjcuNSAtIEJ1aWx0LWluIGNvbXBvbmVudCBvZiBXaW5kb3dzIDcgYW5kIFdpbmRvd3MgU2VydmVyIDIwMDggUjIuCjguMCAtIEJ1aWx0LWluIGNvbXBvbmVudCBvZiBXaW5kb3dzIDggYW5kIFdpbmRvd3MgU2VydmVyIDIwMTIuCjguNSAtIEJ1aWx0LWluIGNvbXBvbmVudCBvZiBXaW5kb3dzIDguMSBhbmQgV2luZG93cyBTZXJ2ZXIgMjAxMiBSMgoxMCAtIEJ1aWx0LWluIGNvbXBvbmVudCBvZiBXaW5kb3dzIDEwIGFuZCBXaW5kb3dzIFNlcnZlciAyMDE2CjEwLjAuMTc3NjMgLSBXaW5kb3dzIFNlcnZlciAyMDE5"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

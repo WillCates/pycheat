@@ -1,0 +1,419 @@
+{
+    "name": {
+        "git": {
+            "filename": "git.json",
+            "keywords": [
+                "git",
+                "github",
+                "gitlab",
+                "repository"
+            ]
+        },
+        "tmux": {
+            "filename": "tmux.json",
+            "keywords": [
+                "tmux",
+                "screen",
+                "session",
+                "window"
+            ]
+        },
+        "antivirus": {
+            "filename": "antivirus.json",
+            "keywords": [
+                "defender",
+                "antivirus",
+                "mp-preference"
+            ]
+        },
+        "application_hfs_rejetto": {
+            "filename": "application_hfs_rejetto.json",
+            "keywords": [
+                "rejetto",
+                "hfs"
+            ]
+        },
+        "awk": {
+            "filename": "awk.json",
+            "keywords": [
+                "awk",
+                "delimiter",
+                "match",
+                "csv"
+            ]
+        },
+        "azure_kusto": {
+            "filename": "azure_kusto.json",
+            "keywords": [
+                "azure",
+                "kusto",
+                "kql"
+            ]
+        },
+        "brute": {
+            "filename": "brute.json",
+            "keywords": [
+                "brute",
+                "ncrack",
+                "crack",
+                "hydra",
+                "medusa"
+            ]
+        },
+        "c_reference": {
+            "filename": "c_reference.json",
+            "keywords": [
+                "ool",
+                "backdoor",
+                "uid",
+                "compil",
+                "shell"
+            ]
+        },
+        "bash_tricks": {
+            "filename": "bash_tricks.json",
+            "keywords": [
+                "bash",
+                "ifs",
+                "saveifs"
+            ]
+        },
+        "cracking": {
+            "filename": "cracking.json",
+            "keywords": [
+                "crack",
+                "keepass",
+                "john",
+                "hashcat",
+                "zip",
+                "fcrackzip"
+            ]
+        },
+        "curl": {
+            "filename": "curl.json",
+            "keywords": [
+                "curl",
+                "post",
+                "json",
+                "jq"
+            ]
+        },
+        "database_mongodb": {
+            "filename": "database_mongodb.json",
+            "keywords": [
+                "mongodb",
+                "database",
+                "scheduler"
+            ]
+        },
+        "database_mssql": {
+            "filename": "database_mssql.json",
+            "keywords": [
+                "mssql",
+                "golden",
+                "ticket",
+                "goldenpac",
+                "database"
+            ]
+        },
+        "database_mysql": {
+            "filename": "database_mysql.json",
+            "keywords": [
+                "mysql",
+                "webshell",
+                "database"
+            ]
+        },
+        "email": {
+            "filename": "email.json",
+            "keywords": [
+                "email",
+                "smtp",
+                "pop3",
+                "spoof",
+                "phish"
+            ]
+        },
+        "file_transfer": {
+            "filename": "file_transfer.json",
+            "keywords": [
+                "transfer",
+                "file",
+                "netcat",
+                "exfiltration",
+                "sleep"
+            ]
+        },
+        "fuzz": {
+            "filename": "fuzz.json",
+            "keywords": [
+                "fuzzing",
+                "offset",
+                "buffer",
+                "overflow"
+            ]
+        },
+        "getopts": {
+            "filename": "getopts.json",
+            "keywords": [
+                "getopts",
+                "arguments"
+            ]
+        },
+        "ldap": {
+            "filename": "ldap.json",
+            "keywords": [
+                "ldapsearch",
+                "ldap",
+                "directory"
+            ]
+        },
+        "linux_general": {
+            "filename": "linux_general.json",
+            "keywords": [
+                "linux",
+                "privesc",
+                "password",
+                "enumeration"
+            ]
+        },
+        "mimikatz_reference": {
+            "filename": "mimikatz_reference.json",
+            "keywords": [
+                "mimikatz",
+                "iex"
+            ]
+        },
+        "java_general": {
+            "filename": "java_general.json",
+            "keywords": [
+                "java",
+                "jad",
+                "decompile"
+            ]
+        },
+        "password_dumping": {
+            "filename": "password_dumping.json",
+            "keywords": [
+                "dump",
+                "password",
+                "sam"
+            ]
+        },
+        "powershell": {
+            "filename": "powershell.json",
+            "keywords": [
+                "powershell",
+                "iex",
+                "get-aduser",
+                "pscredential",
+                "sharphound",
+                "bloodhound"
+            ]
+        },
+        "powerview": {
+            "filename": "powerview.json",
+            "keywords": [
+                "powerview",
+                "powersploit",
+                "set-domainobjectowner",
+                "add-domainobjectacl",
+                "set-domainuserpassword",
+                "add-domaingroupmember"
+            ]
+        },
+        "printf": {
+            "filename": "printf.json",
+            "keywords": [
+                "printf",
+                "table",
+                "formatting"
+            ]
+        },
+        "python_basics": {
+            "filename": "python_basics.json",
+            "keywords": [
+                "python",
+                "loop",
+                "extract"
+            ]
+        },
+        "loving_my_wife": {
+            "filename": "loving_my_wife.json",
+            "keywords": [
+                "love"
+            ]
+        },
+        "python_dictionaries": {
+            "filename": "python_dictionaries.json",
+            "keywords": [
+                "dictionaries",
+                "sets"
+            ]
+        },
+        "python_encoding": {
+            "filename": "python_encoding.json",
+            "keywords": [
+                "convert",
+                "encode",
+                "rot13",
+                "base64",
+                "ordinal"
+            ]
+        },
+        "python_formatting": {
+            "filename": "python_formatting.json",
+            "keywords": [
+                "slicing",
+                "backward",
+                "fstrings",
+                "rawstrings",
+                "falt"
+            ]
+        },
+        "python_functions": {
+            "filename": "python_functions.json",
+            "keywords": [
+                "functions"
+            ]
+        },
+        "python_io": {
+            "filename": "python_io.json",
+            "keywords": [
+                "file",
+                "io",
+                "open",
+                "pathlib"
+            ]
+        },
+        "python_objects": {
+            "filename": "python_objects.json",
+            "keywords": [
+                "namespace",
+                "input",
+                "library"
+            ]
+        },
+        "regex": {
+            "filename": "regex.json",
+            "keywords": [
+                "regex",
+                "grok"
+            ]
+        },
+        "reverse": {
+            "filename": "reverse.json",
+            "keywords": [
+                "reverse",
+                "webshell",
+                "iex",
+                "download",
+                "injection",
+                "tty"
+            ]
+        },
+        "smb": {
+            "filename": "smb.json",
+            "keywords": [
+                "smb",
+                "samba"
+            ]
+        },
+        "splunk": {
+            "filename": "splunk.json",
+            "keywords": [
+                "splunk"
+            ]
+        },
+        "steganography": {
+            "filename": "steganography.json",
+            "keywords": [
+                "steganography",
+                "steghide"
+            ]
+        },
+        "tls": {
+            "filename": "tls.json",
+            "keywords": [
+                "tls",
+                "openssl",
+                "certificate"
+            ]
+        },
+        "tunnel": {
+            "filename": "tunnel.json",
+            "keywords": [
+                "tunnel",
+                "ssh",
+                "dynamic",
+                "forwarding"
+            ]
+        },
+        "webapp_checklist": {
+            "filename": "webapp_checklist.json",
+            "keywords": [
+                "webapp_checklist",
+                "strategy"
+            ]
+        },
+        "webapp_iis_versions": {
+            "filename": "webapp_iis_versions.json",
+            "keywords": [
+                "webapp_iis_versions",
+                "iis"
+            ]
+        },
+        "webapp_lfi": {
+            "filename": "webapp_lfi.json",
+            "keywords": [
+                "webapp_lfi",
+                "inclusion",
+                "lfi",
+                "webshell"
+            ]
+        },
+        "webapp_xss": {
+            "filename": "webapp_xss.json",
+            "keywords": [
+                "webapp_xss",
+                "xss",
+                "csrf",
+                "javascript"
+            ]
+        },
+        "webshell": {
+            "filename": "webshell.json",
+            "keywords": [
+                "webshell",
+                "php"
+            ]
+        },
+        "windows_bloodhound": {
+            "filename": "windows_bloodhound.json",
+            "keywords": [
+                "bloodhound",
+                "GetUserSPNs",
+                "sharphound"
+            ]
+        },
+        "windows_privesc": {
+            "filename": "windows_privesc.json",
+            "keywords": [
+                "windows_privesc"
+            ]
+        },
+        "windows_group_policy": {
+            "filename": "windows_group_policy.json",
+            "keywords": [
+                "windows_group_policy",
+                "gpp-decrypt"
+            ]
+        },
+        "windows_privesc_xp": {
+            "filename": "windows_privesc_xp.json",
+            "keywords": [
+                "windows_privesc_xp"
+            ]
+        }
+    }
+}

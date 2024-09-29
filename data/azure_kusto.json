@@ -1,0 +1,24 @@
+{
+    "command": {
+        "enum_subscription_public_ip": {
+            "description": "Enumerate public IPs in a given subscription",
+            "commands": [
+                "UmVzb3VyY2VzCnwgd2hlcmUgdHlwZSBjb250YWlucyAncHVibGljSVBBZGRyZXNzZXMnIGFuZCBpc25vdGVtcHR5KHByb3BlcnRpZXMuaXBBZGRyZXNzKQp8IHN1bW1hcml6ZSBjb3VudCAoKSBieSBzdWJzY3JpcHRpb25JZAo="
+            ]
+        },
+        "enum_vm_properties": {
+            "description": "Get all properties from a single VM",
+            "commands": [
+                "UmVzb3VyY2VzCnwgd2hlcmUgdHlwZSA9fiAnbWljcm9zb2Z0LmNvbXB1dGUvdmlydHVhbG1hY2hpbmVzJyBhbmQgbmFtZSA9fiAnVk1OQU1FJw=="
+            ]
+        },
+        "enum_vms_public_private": {
+            "description": "Get all VMs and their public/private IPs",
+            "commands": [
+                "UmVzb3VyY2VzCiAgICB8IHdoZXJlIHR5cGUgPX4gJ21pY3Jvc29mdC5jb21wdXRlL3ZpcnR1YWxtYWNoaW5lcycKICAgIHwgcHJvamVjdCB2bUlkID0gdG9sb3dlcih0b3N0cmluZyhpZCkpLCB2bU5hbWUgPSBuYW1lCiAgICB8IGpvaW4gKFJlc291cmNlcwogICAgICAgIHwgd2hlcmUgdHlwZSA9fiAnbWljcm9zb2Z0Lm5ldHdvcmsvbmV0d29ya2ludGVyZmFjZXMnCiAgICAgICAgfCBtdi1leHBhbmQgaXBjb25maWc9cHJvcGVydGllcy5pcENvbmZpZ3VyYXRpb25zCiAgICAgICAgfCBwcm9qZWN0IHZtSWQgPSB0b2xvd2VyKHRvc3RyaW5nKHByb3BlcnRpZXMudmlydHVhbE1hY2hpbmUuaWQpKSwgcHJpdmF0ZUlwID0gaXBjb25maWcucHJvcGVydGllcy5wcml2YXRlSVBBZGRyZXNzLCBwdWJsaWNJcElkID0gdG9zdHJpbmcoaXBjb25maWcucHJvcGVydGllcy5wdWJsaWNJUEFkZHJlc3MuaWQpCiAgICAgICAgfCBqb2luIGtpbmQ9bGVmdG91dGVyIChSZXNvdXJjZXMKICAgICAgICAgICAgfCB3aGVyZSB0eXBlID1+ICdtaWNyb3NvZnQubmV0d29yay9wdWJsaWNpcGFkZHJlc3NlcycKICAgICAgICAgICAgfCBwcm9qZWN0IHB1YmxpY0lwSWQgPSBpZCwgcHVibGljSXAgPSBwcm9wZXJ0aWVzLmlwQWRkcmVzcwogICAgICAgICkgb24gcHVibGljSXBJZAogICAgICAgIHwgcHJvamVjdC1hd2F5IHB1YmxpY0lwSWQsIHB1YmxpY0lwSWQxCiAgICAgICAgfCBzdW1tYXJpemUgcHJpdmF0ZUlwcyA9IG1ha2VfbGlzdChwcml2YXRlSXApLCBwdWJsaWNJcHMgPSBtYWtlX2xpc3QocHVibGljSXApIGJ5IHZtSWQKICAgICkgb24gdm1JZAogICAgfCBwcm9qZWN0LWF3YXkgdm1JZDEKICAgIHwgc29ydCBieSB2bU5hbWUgYXNj"
+            ]
+        }
+    },
+    "configuration": {
+    }
+}
