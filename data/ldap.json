@@ -5,6 +5,12 @@
             "commands": [
                 "bGRhcHNlYXJjaCAtSCBsZGFwOi8vMTAuMTAuMTAuMTYxOjM4OSAteCAtYiAiZGM9aHRiLGRjPWxvY2FsIiAiQ049KiIgfHRlZSAtYSBmb3Jlc3QubGRhcHNlYXJjaA=="
             ]
+        },
+        "ldapsearch_no_bind_dn": {
+            "description": "Anonymous ldapsearch with no bind DN",
+            "commands": [
+                "bGRhcHNlYXJjaCAtSCBsZGFwOi8vMTAuMTAuMTAuWDozMjY4IC14IC1zIGJhc2UgLWIgJycgIihvYmplY3RDbGFzcz0qKSIgIioiICs="
+            ]
         }
     },
     "configuration": {

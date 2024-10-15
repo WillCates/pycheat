@@ -1,0 +1,22 @@
+{
+    "command": {
+        "add_samba_accounts": {
+            "description": "Add samba user, set password, start service",
+            "commands": [
+                "YWRkdXNlciBzbWJ1c2VyCgpzbWJwYXNzd2QgLWEgc21idXNlcgoKc2VydmljZSBzbWJkIHJlc3RhcnQ="
+            ]
+        },
+        "use_samba_windows": {
+            "description": "Use a samba share from Windows.",
+            "commands": [
+                "bmV0IHVzZSBrOiBcXDEwLjEwLjE0LjNcc21iIC91c2VyOnNtYnVzZXIgc21icGFzcw=="
+            ]
+        }
+    },
+    "configuration": {
+        "description": "Configure /etc/samba/smb.conf on Linux",
+        "configurations": [
+            "W2dsb2JhbF0KICAgICAgICBtYXAgdG8gZ3Vlc3QgPSBCYWQgVXNlcgogICAgICAgIHNlcnZlciByb2xlID0gc3RhbmRhbG9uZSBzZXJ2ZXIKICAgICAgICB1c2Vyc2hhcmUgYWxsb3cgZ3Vlc3RzID0geWVzCiAgICAgICAgaWRtYXAgY29uZmlnICogOiBiYWNrZW5kID0gdGRiCiAgICAgICAgaW50ZXJmYWNlcyA9IHR1bjAKICAgICAgICBzbWIgcG9ydHMgPSA0NDUKCltzbWJdCiAgICAgICAgY29tbWVudCA9IFNhbWJhCiAgICAgICAgcGF0aCA9IC90bXAvCiAgICAgICAgZ3Vlc3Qgb2sgPSB5ZXMKICAgICAgICByZWFkIG9ubHkgPSBubwogICAgICAgIGJyb3dzYWJsZSA9IHllcwogICAgICAgIGZvcmNlIHVzZXIgPSBzbWJ1c2Vy"
+        ]
+    }
+}

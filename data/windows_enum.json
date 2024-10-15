@@ -1,0 +1,12 @@
+{
+    "command": {
+        "impacket_enum_users_guest_account": {
+            "description": "Enumerate Windows AD users via impacket lookupsid using guest account",
+            "commands": [
+                "aW1wYWNrZXQtbG9va3Vwc2lkIGNpY2FkYS5odGIvZ3Vlc3RAMTAuMTI5LjExNS4wIC1kb21haW4tc2lkcyAtbm8tcGFzcw=="
+            ]
+        }
+    },
+    "configuration": {
+    }
+}
